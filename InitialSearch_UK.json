@@ -1,0 +1,1758 @@
+{
+    "Search": {
+        "TotalNumberOfPages": "18",
+        "ProductList": {
+            "Class": "",
+            "SortServiceValue": "Default Listing",
+            "TotalProductCount": "413",
+            "Page": "1",
+            "Source": "",
+            "SortUIValue": "0",
+            "responsecodedescription": "SUCCESS_RETRIEVE_PRODUCT_LISTING",
+            "Product": [
+                {
+                    "NodeType": "SUMMARY",
+                    "DefaultImageURLExt": "null",
+                    "AvgProductRating": "0",
+                    "MQDAmount": "0",
+                    "QvcPrice": "28.86",
+                    "CreditTermsText": "null",
+                    "ItemLimit": "0",
+                    "MQDPercent": "0",
+                    "BaseImageURL": "null",
+                    "ItemNumber": "137369",
+                    "Availability": {
+                        "OverallAvailabilityCode": "N",
+                        "QTYLimit": "0",
+                        "Available": "True",
+                        "SizeCount": "0",
+                        "ColorCount": "0"
+                    },
+                    "SpecialPrice": "0",
+                    "ReviewCount": "0",
+                    "CurrentSellingPrice": "28.86",
+                    "StatusCode": "null",
+                    "ShortDesc": "Quacker Factory Christmas Shirt & 3/4 Sleeve T-Shirt Set",
+                    "PrimaryClassCode": "null",
+                    "SpecialPriceText": "Introductory Price",
+                    "ProductNbr": "137369",
+                    "RetailPrice": "0",
+                    "CreditTerms": "null",
+                    "ComponentProducts": "null",
+                    "GroupProduct": {
+                        "content": "false",
+                        "QVCMinPrice": "0",
+                        "QVCMaxPrice": "0",
+                        "MinPrice": "0",
+                        "MaxPrice": "0"
+                    },
+                    "MarketingText": {
+                        "xsi_ns-sep_nil": "true"
+                    }
+                },
+                {
+                    "NodeType": "SUMMARY",
+                    "DefaultImageURLExt": "null",
+                    "AvgProductRating": "0",
+                    "MQDAmount": "0",
+                    "QvcPrice": "29.00",
+                    "CreditTermsText": "null",
+                    "ItemLimit": "0",
+                    "MQDPercent": "0",
+                    "BaseImageURL": "null",
+                    "ItemNumber": "135587",
+                    "Availability": {
+                        "OverallAvailabilityCode": "N",
+                        "QTYLimit": "0",
+                        "Available": "True",
+                        "SizeCount": "0",
+                        "ColorCount": "0"
+                    },
+                    "SpecialPrice": "29.00",
+                    "ReviewCount": "0",
+                    "CurrentSellingPrice": "29.00",
+                    "StatusCode": "null",
+                    "ShortDesc": "Quacker Factory Rose Embroidered Shirt & T-shirt Set",
+                    "PrimaryClassCode": "null",
+                    "SpecialPriceText": "null",
+                    "ProductNbr": "135587",
+                    "RetailPrice": "0",
+                    "CreditTerms": "null",
+                    "ComponentProducts": "null",
+                    "GroupProduct": {
+                        "content": "false",
+                        "QVCMinPrice": "0",
+                        "QVCMaxPrice": "0",
+                        "MinPrice": "0",
+                        "MaxPrice": "0"
+                    },
+                    "MarketingText": {
+                        "xsi_ns-sep_nil": "true"
+                    }
+                },
+                {
+                    "NodeType": "SUMMARY",
+                    "DefaultImageURLExt": "null",
+                    "AvgProductRating": "0",
+                    "MQDAmount": "0",
+                    "QvcPrice": "68.00",
+                    "CreditTermsText": "null",
+                    "ItemLimit": "0",
+                    "MQDPercent": "0",
+                    "BaseImageURL": "null",
+                    "ItemNumber": "138451",
+                    "Availability": {
+                        "OverallAvailabilityCode": "N",
+                        "QTYLimit": "0",
+                        "Available": "True",
+                        "SizeCount": "0",
+                        "ColorCount": "0"
+                    },
+                    "SpecialPrice": "68.00",
+                    "ReviewCount": "0",
+                    "CurrentSellingPrice": "68.00",
+                    "StatusCode": "null",
+                    "ShortDesc": "Ruched Front Shirt by The Perfect White Shirt Company",
+                    "PrimaryClassCode": "null",
+                    "SpecialPriceText": "null",
+                    "ProductNbr": "138451",
+                    "RetailPrice": "0",
+                    "CreditTerms": "null",
+                    "ComponentProducts": "null",
+                    "GroupProduct": {
+                        "content": "false",
+                        "QVCMinPrice": "0",
+                        "QVCMaxPrice": "0",
+                        "MinPrice": "0",
+                        "MaxPrice": "0"
+                    },
+                    "MarketingText": {
+                        "xsi_ns-sep_nil": "true"
+                    }
+                },
+                {
+                    "NodeType": "SUMMARY",
+                    "DefaultImageURLExt": "null",
+                    "AvgProductRating": "0",
+                    "MQDAmount": "0",
+                    "QvcPrice": "68.00",
+                    "CreditTermsText": "null",
+                    "ItemLimit": "0",
+                    "MQDPercent": "0",
+                    "BaseImageURL": "null",
+                    "ItemNumber": "138458",
+                    "Availability": {
+                        "OverallAvailabilityCode": "N",
+                        "QTYLimit": "0",
+                        "Available": "True",
+                        "SizeCount": "0",
+                        "ColorCount": "0"
+                    },
+                    "SpecialPrice": "68.00",
+                    "ReviewCount": "0",
+                    "CurrentSellingPrice": "68.00",
+                    "StatusCode": "null",
+                    "ShortDesc": "Ruffle Front Shirt by The Perfect White Shirt Company",
+                    "PrimaryClassCode": "null",
+                    "SpecialPriceText": "null",
+                    "ProductNbr": "138458",
+                    "RetailPrice": "0",
+                    "CreditTerms": "null",
+                    "ComponentProducts": "null",
+                    "GroupProduct": {
+                        "content": "false",
+                        "QVCMinPrice": "0",
+                        "QVCMaxPrice": "0",
+                        "MinPrice": "0",
+                        "MaxPrice": "0"
+                    },
+                    "MarketingText": {
+                        "xsi_ns-sep_nil": "true"
+                    }
+                },
+                {
+                    "NodeType": "SUMMARY",
+                    "DefaultImageURLExt": "null",
+                    "AvgProductRating": "0",
+                    "MQDAmount": "0",
+                    "QvcPrice": "33.00",
+                    "CreditTermsText": "null",
+                    "ItemLimit": "0",
+                    "MQDPercent": "0",
+                    "BaseImageURL": "null",
+                    "ItemNumber": "137627",
+                    "Availability": {
+                        "OverallAvailabilityCode": "N",
+                        "QTYLimit": "0",
+                        "Available": "True",
+                        "SizeCount": "0",
+                        "ColorCount": "0"
+                    },
+                    "SpecialPrice": "33.00",
+                    "ReviewCount": "0",
+                    "CurrentSellingPrice": "33.00",
+                    "StatusCode": "null",
+                    "ShortDesc": "Style Inc Embellished Floral Detail T-Shirt & Trouser Set",
+                    "PrimaryClassCode": "null",
+                    "SpecialPriceText": "null",
+                    "ProductNbr": "137627",
+                    "RetailPrice": "0",
+                    "CreditTerms": "null",
+                    "ComponentProducts": "null",
+                    "GroupProduct": {
+                        "content": "false",
+                        "QVCMinPrice": "0",
+                        "QVCMaxPrice": "0",
+                        "MinPrice": "0",
+                        "MaxPrice": "0"
+                    },
+                    "MarketingText": {
+                        "xsi_ns-sep_nil": "true"
+                    }
+                },
+                {
+                    "NodeType": "SUMMARY",
+                    "DefaultImageURLExt": "null",
+                    "AvgProductRating": "0",
+                    "MQDAmount": "0",
+                    "QvcPrice": "14.50",
+                    "CreditTermsText": "null",
+                    "ItemLimit": "0",
+                    "MQDPercent": "0",
+                    "BaseImageURL": "null",
+                    "ItemNumber": "137281",
+                    "Availability": {
+                        "OverallAvailabilityCode": "N",
+                        "QTYLimit": "0",
+                        "Available": "True",
+                        "SizeCount": "0",
+                        "ColorCount": "0"
+                    },
+                    "SpecialPrice": "14.50",
+                    "ReviewCount": "0",
+                    "CurrentSellingPrice": "14.50",
+                    "StatusCode": "null",
+                    "ShortDesc": "Casual and Co Striped Shirt with Nehru Collar",
+                    "PrimaryClassCode": "null",
+                    "SpecialPriceText": "null",
+                    "ProductNbr": "137281",
+                    "RetailPrice": "0",
+                    "CreditTerms": "null",
+                    "ComponentProducts": "null",
+                    "GroupProduct": {
+                        "content": "false",
+                        "QVCMinPrice": "0",
+                        "QVCMaxPrice": "0",
+                        "MinPrice": "0",
+                        "MaxPrice": "0"
+                    },
+                    "MarketingText": {
+                        "xsi_ns-sep_nil": "true"
+                    }
+                },
+                {
+                    "NodeType": "SUMMARY",
+                    "DefaultImageURLExt": "null",
+                    "AvgProductRating": "0",
+                    "MQDAmount": "0",
+                    "QvcPrice": "38.00",
+                    "CreditTermsText": "null",
+                    "ItemLimit": "0",
+                    "MQDPercent": "0",
+                    "BaseImageURL": "null",
+                    "ItemNumber": "135004",
+                    "Availability": {
+                        "OverallAvailabilityCode": "N",
+                        "QTYLimit": "0",
+                        "Available": "True",
+                        "SizeCount": "0",
+                        "ColorCount": "0"
+                    },
+                    "SpecialPrice": "38.00",
+                    "ReviewCount": "0",
+                    "CurrentSellingPrice": "38.00",
+                    "StatusCode": "null",
+                    "ShortDesc": "Butler & Wilson Cream Short Sleeve T-shirt with Parrot and Flo",
+                    "PrimaryClassCode": "null",
+                    "SpecialPriceText": "null",
+                    "ProductNbr": "135004",
+                    "RetailPrice": "0",
+                    "CreditTerms": "null",
+                    "ComponentProducts": "null",
+                    "GroupProduct": {
+                        "content": "false",
+                        "QVCMinPrice": "0",
+                        "QVCMaxPrice": "0",
+                        "MinPrice": "0",
+                        "MaxPrice": "0"
+                    },
+                    "MarketingText": {
+                        "xsi_ns-sep_nil": "true"
+                    }
+                },
+                {
+                    "NodeType": "SUMMARY",
+                    "DefaultImageURLExt": "null",
+                    "AvgProductRating": "0",
+                    "MQDAmount": "0",
+                    "QvcPrice": "41.25",
+                    "CreditTermsText": "null",
+                    "ItemLimit": "0",
+                    "MQDPercent": "0",
+                    "BaseImageURL": "null",
+                    "ItemNumber": "134735",
+                    "Availability": {
+                        "OverallAvailabilityCode": "N",
+                        "QTYLimit": "0",
+                        "Available": "True",
+                        "SizeCount": "0",
+                        "ColorCount": "0"
+                    },
+                    "SpecialPrice": "41.25",
+                    "ReviewCount": "0",
+                    "CurrentSellingPrice": "41.25",
+                    "StatusCode": "null",
+                    "ShortDesc": "Lace Shirt with Fluted 3/4 Length Tie Sleeves by Michele Hope",
+                    "PrimaryClassCode": "null",
+                    "SpecialPriceText": "null",
+                    "ProductNbr": "134735",
+                    "RetailPrice": "0",
+                    "CreditTerms": "null",
+                    "ComponentProducts": "null",
+                    "GroupProduct": {
+                        "content": "false",
+                        "QVCMinPrice": "0",
+                        "QVCMaxPrice": "0",
+                        "MinPrice": "0",
+                        "MaxPrice": "0"
+                    },
+                    "MarketingText": {
+                        "xsi_ns-sep_nil": "true"
+                    }
+                },
+                {
+                    "NodeType": "SUMMARY",
+                    "DefaultImageURLExt": "null",
+                    "AvgProductRating": "0",
+                    "MQDAmount": "0",
+                    "QvcPrice": "25.75",
+                    "CreditTermsText": "null",
+                    "ItemLimit": "0",
+                    "MQDPercent": "0",
+                    "BaseImageURL": "null",
+                    "ItemNumber": "139744",
+                    "Availability": {
+                        "OverallAvailabilityCode": "N",
+                        "QTYLimit": "0",
+                        "Available": "True",
+                        "SizeCount": "0",
+                        "ColorCount": "0"
+                    },
+                    "SpecialPrice": "25.75",
+                    "ReviewCount": "0",
+                    "CurrentSellingPrice": "25.75",
+                    "StatusCode": "null",
+                    "ShortDesc": "Button Front Shirt with Flower Brooch by Susan Graver",
+                    "PrimaryClassCode": "null",
+                    "SpecialPriceText": "null",
+                    "ProductNbr": "139744",
+                    "RetailPrice": "0",
+                    "CreditTerms": "null",
+                    "ComponentProducts": "null",
+                    "GroupProduct": {
+                        "content": "false",
+                        "QVCMinPrice": "0",
+                        "QVCMaxPrice": "0",
+                        "MinPrice": "0",
+                        "MaxPrice": "0"
+                    },
+                    "MarketingText": {
+                        "xsi_ns-sep_nil": "true"
+                    }
+                },
+                {
+                    "NodeType": "SUMMARY",
+                    "DefaultImageURLExt": "null",
+                    "AvgProductRating": "0",
+                    "MQDAmount": "0",
+                    "QvcPrice": "20.72",
+                    "CreditTermsText": "null",
+                    "ItemLimit": "0",
+                    "MQDPercent": "0",
+                    "BaseImageURL": "null",
+                    "ItemNumber": "137218",
+                    "Availability": {
+                        "OverallAvailabilityCode": "N",
+                        "QTYLimit": "0",
+                        "Available": "True",
+                        "SizeCount": "0",
+                        "ColorCount": "0"
+                    },
+                    "SpecialPrice": "0",
+                    "ReviewCount": "0",
+                    "CurrentSellingPrice": "20.72",
+                    "StatusCode": "null",
+                    "ShortDesc": "Eastern Spirit Mandarin Neck Cap Sleeve Embroidered Shirt",
+                    "PrimaryClassCode": "null",
+                    "SpecialPriceText": "Introductory Price",
+                    "ProductNbr": "137218",
+                    "RetailPrice": "0",
+                    "CreditTerms": "null",
+                    "ComponentProducts": "null",
+                    "GroupProduct": {
+                        "content": "false",
+                        "QVCMinPrice": "0",
+                        "QVCMaxPrice": "0",
+                        "MinPrice": "0",
+                        "MaxPrice": "0"
+                    },
+                    "MarketingText": {
+                        "xsi_ns-sep_nil": "true"
+                    }
+                },
+                {
+                    "NodeType": "SUMMARY",
+                    "DefaultImageURLExt": "null",
+                    "AvgProductRating": "0",
+                    "MQDAmount": "0",
+                    "QvcPrice": "15.00",
+                    "CreditTermsText": "null",
+                    "ItemLimit": "0",
+                    "MQDPercent": "0",
+                    "BaseImageURL": "null",
+                    "ItemNumber": "135739",
+                    "Availability": {
+                        "OverallAvailabilityCode": "N",
+                        "QTYLimit": "0",
+                        "Available": "True",
+                        "SizeCount": "0",
+                        "ColorCount": "0"
+                    },
+                    "SpecialPrice": "15.00",
+                    "ReviewCount": "0",
+                    "CurrentSellingPrice": "15.00",
+                    "StatusCode": "null",
+                    "ShortDesc": "Artscapes 3/4 Sleeve Italian River Scene Print T-Shirt",
+                    "PrimaryClassCode": "null",
+                    "SpecialPriceText": "null",
+                    "ProductNbr": "135739",
+                    "RetailPrice": "0",
+                    "CreditTerms": "null",
+                    "ComponentProducts": "null",
+                    "GroupProduct": {
+                        "content": "false",
+                        "QVCMinPrice": "0",
+                        "QVCMaxPrice": "0",
+                        "MinPrice": "0",
+                        "MaxPrice": "0"
+                    },
+                    "MarketingText": {
+                        "xsi_ns-sep_nil": "true"
+                    }
+                },
+                {
+                    "NodeType": "SUMMARY",
+                    "DefaultImageURLExt": "null",
+                    "AvgProductRating": "0",
+                    "MQDAmount": "0",
+                    "QvcPrice": "15.00",
+                    "CreditTermsText": "null",
+                    "ItemLimit": "0",
+                    "MQDPercent": "0",
+                    "BaseImageURL": "null",
+                    "ItemNumber": "138370",
+                    "Availability": {
+                        "OverallAvailabilityCode": "N",
+                        "QTYLimit": "0",
+                        "Available": "True",
+                        "SizeCount": "0",
+                        "ColorCount": "0"
+                    },
+                    "SpecialPrice": "15.00",
+                    "ReviewCount": "0",
+                    "CurrentSellingPrice": "15.00",
+                    "StatusCode": "null",
+                    "ShortDesc": "Artscape Chicago Winter T-shirt with 3/4 Length Sleeves",
+                    "PrimaryClassCode": "null",
+                    "SpecialPriceText": "null",
+                    "ProductNbr": "138370",
+                    "RetailPrice": "0",
+                    "CreditTerms": "null",
+                    "ComponentProducts": "null",
+                    "GroupProduct": {
+                        "content": "false",
+                        "QVCMinPrice": "0",
+                        "QVCMaxPrice": "0",
+                        "MinPrice": "0",
+                        "MaxPrice": "0"
+                    },
+                    "MarketingText": {
+                        "xsi_ns-sep_nil": "true"
+                    }
+                },
+                {
+                    "NodeType": "SUMMARY",
+                    "DefaultImageURLExt": "null",
+                    "AvgProductRating": "0",
+                    "MQDAmount": "0",
+                    "QvcPrice": "18.00",
+                    "CreditTermsText": "null",
+                    "ItemLimit": "0",
+                    "MQDPercent": "0",
+                    "BaseImageURL": "null",
+                    "ItemNumber": "136417",
+                    "Availability": {
+                        "OverallAvailabilityCode": "N",
+                        "QTYLimit": "0",
+                        "Available": "True",
+                        "SizeCount": "0",
+                        "ColorCount": "0"
+                    },
+                    "SpecialPrice": "18.00",
+                    "ReviewCount": "0",
+                    "CurrentSellingPrice": "18.00",
+                    "StatusCode": "null",
+                    "ShortDesc": "Butler & Wilson Daisy Flower T-shirt",
+                    "PrimaryClassCode": "null",
+                    "SpecialPriceText": "null",
+                    "ProductNbr": "136417",
+                    "RetailPrice": "0",
+                    "CreditTerms": "null",
+                    "ComponentProducts": "null",
+                    "GroupProduct": {
+                        "content": "false",
+                        "QVCMinPrice": "0",
+                        "QVCMaxPrice": "0",
+                        "MinPrice": "0",
+                        "MaxPrice": "0"
+                    },
+                    "MarketingText": {
+                        "xsi_ns-sep_nil": "true"
+                    }
+                },
+                {
+                    "NodeType": "SUMMARY",
+                    "DefaultImageURLExt": "null",
+                    "AvgProductRating": "0",
+                    "MQDAmount": "0",
+                    "QvcPrice": "25.33",
+                    "CreditTermsText": "null",
+                    "ItemLimit": "0",
+                    "MQDPercent": "0",
+                    "BaseImageURL": "null",
+                    "ItemNumber": "136247",
+                    "Availability": {
+                        "OverallAvailabilityCode": "N",
+                        "QTYLimit": "0",
+                        "Available": "True",
+                        "SizeCount": "0",
+                        "ColorCount": "0"
+                    },
+                    "SpecialPrice": "0",
+                    "ReviewCount": "0",
+                    "CurrentSellingPrice": "25.33",
+                    "StatusCode": "null",
+                    "ShortDesc": "Quacker Factory Crop Trousers T-shirt & Bag Set",
+                    "PrimaryClassCode": "null",
+                    "SpecialPriceText": "Introductory Price",
+                    "ProductNbr": "136247",
+                    "RetailPrice": "0",
+                    "CreditTerms": "null",
+                    "ComponentProducts": "null",
+                    "GroupProduct": {
+                        "content": "false",
+                        "QVCMinPrice": "0",
+                        "QVCMaxPrice": "0",
+                        "MinPrice": "0",
+                        "MaxPrice": "0"
+                    },
+                    "MarketingText": {
+                        "xsi_ns-sep_nil": "true"
+                    }
+                },
+                {
+                    "NodeType": "SUMMARY",
+                    "DefaultImageURLExt": "null",
+                    "AvgProductRating": "0",
+                    "MQDAmount": "0",
+                    "QvcPrice": "31.96",
+                    "CreditTermsText": "null",
+                    "ItemLimit": "0",
+                    "MQDPercent": "0",
+                    "BaseImageURL": "null",
+                    "ItemNumber": "138560",
+                    "Availability": {
+                        "OverallAvailabilityCode": "N",
+                        "QTYLimit": "0",
+                        "Available": "True",
+                        "SizeCount": "0",
+                        "ColorCount": "0"
+                    },
+                    "SpecialPrice": "0",
+                    "ReviewCount": "0",
+                    "CurrentSellingPrice": "31.96",
+                    "StatusCode": "null",
+                    "ShortDesc": "Embroidered Shirt & Beaded Camisole Top by Susan Graver",
+                    "PrimaryClassCode": "null",
+                    "SpecialPriceText": "Introductory Price",
+                    "ProductNbr": "138560",
+                    "RetailPrice": "0",
+                    "CreditTerms": "null",
+                    "ComponentProducts": "null",
+                    "GroupProduct": {
+                        "content": "false",
+                        "QVCMinPrice": "0",
+                        "QVCMaxPrice": "0",
+                        "MinPrice": "0",
+                        "MaxPrice": "0"
+                    },
+                    "MarketingText": {
+                        "xsi_ns-sep_nil": "true"
+                    }
+                },
+                {
+                    "NodeType": "SUMMARY",
+                    "DefaultImageURLExt": "null",
+                    "AvgProductRating": "0",
+                    "MQDAmount": "0",
+                    "QvcPrice": "8.08",
+                    "CreditTermsText": "null",
+                    "ItemLimit": "0",
+                    "MQDPercent": "0",
+                    "BaseImageURL": "null",
+                    "ItemNumber": "111222",
+                    "Availability": {
+                        "OverallAvailabilityCode": "N",
+                        "QTYLimit": "0",
+                        "Available": "True",
+                        "SizeCount": "0",
+                        "ColorCount": "0"
+                    },
+                    "SpecialPrice": "0",
+                    "ReviewCount": "0",
+                    "CurrentSellingPrice": "8.08",
+                    "StatusCode": "null",
+                    "ShortDesc": "Chambray Long Sleeve Shadow Check Shirt",
+                    "PrimaryClassCode": "null",
+                    "SpecialPriceText": "Last Clicks Price",
+                    "ProductNbr": "111222",
+                    "RetailPrice": "0",
+                    "CreditTerms": "null",
+                    "ComponentProducts": "null",
+                    "GroupProduct": {
+                        "content": "false",
+                        "QVCMinPrice": "0",
+                        "QVCMaxPrice": "0",
+                        "MinPrice": "0",
+                        "MaxPrice": "0"
+                    },
+                    "MarketingText": {
+                        "xsi_ns-sep_nil": "true"
+                    }
+                },
+                {
+                    "NodeType": "SUMMARY",
+                    "DefaultImageURLExt": "null",
+                    "AvgProductRating": "0",
+                    "MQDAmount": "0",
+                    "QvcPrice": "39.14",
+                    "CreditTermsText": "null",
+                    "ItemLimit": "0",
+                    "MQDPercent": "0",
+                    "BaseImageURL": "null",
+                    "ItemNumber": "134245",
+                    "Availability": {
+                        "OverallAvailabilityCode": "N",
+                        "QTYLimit": "0",
+                        "Available": "True",
+                        "SizeCount": "0",
+                        "ColorCount": "0"
+                    },
+                    "SpecialPrice": "0",
+                    "ReviewCount": "0",
+                    "CurrentSellingPrice": "39.14",
+                    "StatusCode": "null",
+                    "ShortDesc": "Washable Suede Narrow Ruffle Shirt by Beth Terrell",
+                    "PrimaryClassCode": "null",
+                    "SpecialPriceText": "Clearance Price",
+                    "ProductNbr": "134245",
+                    "RetailPrice": "0",
+                    "CreditTerms": "null",
+                    "ComponentProducts": "null",
+                    "GroupProduct": {
+                        "content": "false",
+                        "QVCMinPrice": "0",
+                        "QVCMaxPrice": "0",
+                        "MinPrice": "0",
+                        "MaxPrice": "0"
+                    },
+                    "MarketingText": {
+                        "xsi_ns-sep_nil": "true"
+                    }
+                },
+                {
+                    "NodeType": "SUMMARY",
+                    "DefaultImageURLExt": "null",
+                    "AvgProductRating": "0",
+                    "MQDAmount": "0",
+                    "QvcPrice": "18.95",
+                    "CreditTermsText": "null",
+                    "ItemLimit": "0",
+                    "MQDPercent": "0",
+                    "BaseImageURL": "null",
+                    "ItemNumber": "136520",
+                    "Availability": {
+                        "OverallAvailabilityCode": "N",
+                        "QTYLimit": "0",
+                        "Available": "True",
+                        "SizeCount": "0",
+                        "ColorCount": "0"
+                    },
+                    "SpecialPrice": "0",
+                    "ReviewCount": "0",
+                    "CurrentSellingPrice": "18.95",
+                    "StatusCode": "null",
+                    "ShortDesc": "Cotton Gauze Over Shirt by Susan Graver",
+                    "PrimaryClassCode": "null",
+                    "SpecialPriceText": "Introductory Price",
+                    "ProductNbr": "136520",
+                    "RetailPrice": "0",
+                    "CreditTerms": "null",
+                    "ComponentProducts": "null",
+                    "GroupProduct": {
+                        "content": "false",
+                        "QVCMinPrice": "0",
+                        "QVCMaxPrice": "0",
+                        "MinPrice": "0",
+                        "MaxPrice": "0"
+                    },
+                    "MarketingText": {
+                        "xsi_ns-sep_nil": "true"
+                    }
+                },
+                {
+                    "NodeType": "SUMMARY",
+                    "DefaultImageURLExt": "null",
+                    "AvgProductRating": "0",
+                    "MQDAmount": "0",
+                    "QvcPrice": "21.75",
+                    "CreditTermsText": "null",
+                    "ItemLimit": "0",
+                    "MQDPercent": "0",
+                    "BaseImageURL": "null",
+                    "ItemNumber": "135633",
+                    "Availability": {
+                        "OverallAvailabilityCode": "N",
+                        "QTYLimit": "0",
+                        "Available": "True",
+                        "SizeCount": "0",
+                        "ColorCount": "0"
+                    },
+                    "SpecialPrice": "21.75",
+                    "ReviewCount": "0",
+                    "CurrentSellingPrice": "21.75",
+                    "StatusCode": "null",
+                    "ShortDesc": "Quacker Factory Sequin & Wood Beaded Trim Henly Ribbed T-Shirt",
+                    "PrimaryClassCode": "null",
+                    "SpecialPriceText": "null",
+                    "ProductNbr": "135633",
+                    "RetailPrice": "0",
+                    "CreditTerms": "null",
+                    "ComponentProducts": "null",
+                    "GroupProduct": {
+                        "content": "false",
+                        "QVCMinPrice": "0",
+                        "QVCMaxPrice": "0",
+                        "MinPrice": "0",
+                        "MaxPrice": "0"
+                    },
+                    "MarketingText": {
+                        "xsi_ns-sep_nil": "true"
+                    }
+                },
+                {
+                    "NodeType": "SUMMARY",
+                    "DefaultImageURLExt": "null",
+                    "AvgProductRating": "0",
+                    "MQDAmount": "0",
+                    "QvcPrice": "31.19",
+                    "CreditTermsText": "null",
+                    "ItemLimit": "0",
+                    "MQDPercent": "0",
+                    "BaseImageURL": "null",
+                    "ItemNumber": "139619",
+                    "Availability": {
+                        "OverallAvailabilityCode": "N",
+                        "QTYLimit": "0",
+                        "Available": "True",
+                        "SizeCount": "0",
+                        "ColorCount": "0"
+                    },
+                    "SpecialPrice": "0",
+                    "ReviewCount": "0",
+                    "CurrentSellingPrice": "31.19",
+                    "StatusCode": "null",
+                    "ShortDesc": "Quacker Factory Pearls & Crystals Woven Shirt & Knit Tank Set",
+                    "PrimaryClassCode": "null",
+                    "SpecialPriceText": "Introductory Price",
+                    "ProductNbr": "139619",
+                    "RetailPrice": "0",
+                    "CreditTerms": "null",
+                    "ComponentProducts": "null",
+                    "GroupProduct": {
+                        "content": "false",
+                        "QVCMinPrice": "0",
+                        "QVCMaxPrice": "0",
+                        "MinPrice": "0",
+                        "MaxPrice": "0"
+                    },
+                    "MarketingText": {
+                        "xsi_ns-sep_nil": "true"
+                    }
+                },
+                {
+                    "NodeType": "SUMMARY",
+                    "DefaultImageURLExt": "null",
+                    "AvgProductRating": "0",
+                    "MQDAmount": "0",
+                    "QvcPrice": "16.36",
+                    "CreditTermsText": "null",
+                    "ItemLimit": "0",
+                    "MQDPercent": "0",
+                    "BaseImageURL": "null",
+                    "ItemNumber": "139208",
+                    "Availability": {
+                        "OverallAvailabilityCode": "N",
+                        "QTYLimit": "0",
+                        "Available": "True",
+                        "SizeCount": "0",
+                        "ColorCount": "0"
+                    },
+                    "SpecialPrice": "0",
+                    "ReviewCount": "0",
+                    "CurrentSellingPrice": "16.36",
+                    "StatusCode": "null",
+                    "ShortDesc": "Eastern Spirit Large Scale Paisley Print 3/4 Sleeve T-Shirt",
+                    "PrimaryClassCode": "null",
+                    "SpecialPriceText": "Introductory Price",
+                    "ProductNbr": "139208",
+                    "RetailPrice": "0",
+                    "CreditTerms": "null",
+                    "ComponentProducts": "null",
+                    "GroupProduct": {
+                        "content": "false",
+                        "QVCMinPrice": "0",
+                        "QVCMaxPrice": "0",
+                        "MinPrice": "0",
+                        "MaxPrice": "0"
+                    },
+                    "MarketingText": {
+                        "xsi_ns-sep_nil": "true"
+                    }
+                },
+                {
+                    "NodeType": "SUMMARY",
+                    "DefaultImageURLExt": "null",
+                    "AvgProductRating": "0",
+                    "MQDAmount": "0",
+                    "QvcPrice": "17.35",
+                    "CreditTermsText": "null",
+                    "ItemLimit": "0",
+                    "MQDPercent": "0",
+                    "BaseImageURL": "null",
+                    "ItemNumber": "134555",
+                    "Availability": {
+                        "OverallAvailabilityCode": "N",
+                        "QTYLimit": "0",
+                        "Available": "True",
+                        "SizeCount": "0",
+                        "ColorCount": "0"
+                    },
+                    "SpecialPrice": "0",
+                    "ReviewCount": "0",
+                    "CurrentSellingPrice": "17.35",
+                    "StatusCode": "null",
+                    "ShortDesc": "Embellished Kimono Style T-Shirt by Indigo Moon",
+                    "PrimaryClassCode": "null",
+                    "SpecialPriceText": "Clearance Price",
+                    "ProductNbr": "134555",
+                    "RetailPrice": "0",
+                    "CreditTerms": "null",
+                    "ComponentProducts": "null",
+                    "GroupProduct": {
+                        "content": "false",
+                        "QVCMinPrice": "0",
+                        "QVCMaxPrice": "0",
+                        "MinPrice": "0",
+                        "MaxPrice": "0"
+                    },
+                    "MarketingText": {
+                        "xsi_ns-sep_nil": "true"
+                    }
+                },
+                {
+                    "NodeType": "SUMMARY",
+                    "DefaultImageURLExt": "null",
+                    "AvgProductRating": "0",
+                    "MQDAmount": "0",
+                    "QvcPrice": "38.00",
+                    "CreditTermsText": "null",
+                    "ItemLimit": "0",
+                    "MQDPercent": "0",
+                    "BaseImageURL": "null",
+                    "ItemNumber": "134251",
+                    "Availability": {
+                        "OverallAvailabilityCode": "N",
+                        "QTYLimit": "0",
+                        "Available": "True",
+                        "SizeCount": "0",
+                        "ColorCount": "0"
+                    },
+                    "SpecialPrice": "38.00",
+                    "ReviewCount": "0",
+                    "CurrentSellingPrice": "38.00",
+                    "StatusCode": "null",
+                    "ShortDesc": "Silk Shirt by Beth Terrell",
+                    "PrimaryClassCode": "null",
+                    "SpecialPriceText": "null",
+                    "ProductNbr": "134251",
+                    "RetailPrice": "0",
+                    "CreditTerms": "null",
+                    "ComponentProducts": "null",
+                    "GroupProduct": {
+                        "content": "false",
+                        "QVCMinPrice": "0",
+                        "QVCMaxPrice": "0",
+                        "MinPrice": "0",
+                        "MaxPrice": "0"
+                    },
+                    "MarketingText": {
+                        "xsi_ns-sep_nil": "true"
+                    }
+                },
+                {
+                    "NodeType": "SUMMARY",
+                    "DefaultImageURLExt": "null",
+                    "AvgProductRating": "0",
+                    "MQDAmount": "0",
+                    "QvcPrice": "9.36",
+                    "CreditTermsText": "null",
+                    "ItemLimit": "0",
+                    "MQDPercent": "0",
+                    "BaseImageURL": "null",
+                    "ItemNumber": "137623",
+                    "Availability": {
+                        "OverallAvailabilityCode": "N",
+                        "QTYLimit": "0",
+                        "Available": "True",
+                        "SizeCount": "0",
+                        "ColorCount": "0"
+                    },
+                    "SpecialPrice": "0",
+                    "ReviewCount": "0",
+                    "CurrentSellingPrice": "9.36",
+                    "StatusCode": "null",
+                    "ShortDesc": "Style Inc Floral Print Detail Long Sleeved T-shirt",
+                    "PrimaryClassCode": "null",
+                    "SpecialPriceText": "Clearance Price",
+                    "ProductNbr": "137623",
+                    "RetailPrice": "0",
+                    "CreditTerms": "null",
+                    "ComponentProducts": "null",
+                    "GroupProduct": {
+                        "content": "false",
+                        "QVCMinPrice": "0",
+                        "QVCMaxPrice": "0",
+                        "MinPrice": "0",
+                        "MaxPrice": "0"
+                    },
+                    "MarketingText": {
+                        "xsi_ns-sep_nil": "true"
+                    }
+                }
+            ],
+            "responsecodetext": "Product listing retrieved.",
+            "responsecode": "5000"
+        },
+        "NarrowBy": {
+            "group": [
+                {
+                    "dt": "Sortiment",
+                    "att": [
+                        {
+                            "sqs": "/QVC/Search.ff?query=shirt&filterMeta_Desc=Mode&channel=de&productsPerPage=5&followSearch=9855&ref=&keyword=&catalogId=&userName=&langId=&resultsWithTopSellers=&signIn=&storeId=&greetingMsg=&cm_mmc=&format=XML",
+                            "dt": "Mode",
+                            "count": "1098"
+                        },
+                        {
+                            "sqs": "/QVC/Search.ff?query=shirt&filterMeta_Desc=Hobby+%26+Basteln&channel=de&productsPerPage=5&followSearch=9855&ref=&keyword=&catalogId=&userName=&langId=&resultsWithTopSellers=&signIn=&storeId=&greetingMsg=&cm_mmc=&format=XML",
+                            "dt": "Hobby & Basteln",
+                            "count": "6"
+                        },
+                        {
+                            "sqs": "/QVC/Search.ff?query=shirt&filterMeta_Desc=Schmuck+%26+Uhren&channel=de&productsPerPage=5&followSearch=9855&ref=&keyword=&catalogId=&userName=&langId=&resultsWithTopSellers=&signIn=&storeId=&greetingMsg=&cm_mmc=&format=XML",
+                            "dt": "Schmuck & Uhren",
+                            "count": "5"
+                        },
+                        {
+                            "sqs": "/QVC/Search.ff?query=shirt&filterMeta_Desc=Schuhe+%26+Accessoires&channel=de&productsPerPage=5&followSearch=9855&ref=&keyword=&catalogId=&userName=&langId=&resultsWithTopSellers=&signIn=&storeId=&greetingMsg=&cm_mmc=&format=XML",
+                            "dt": "Schuhe & Accessoires",
+                            "count": "1"
+                        }
+                    ]
+                },
+                {
+                    "dt": "Kategorie",
+                    "att": [
+                        {
+                            "sqs": "/QVC/Search.ff?query=shirt&filterCategorie_Desc=Shirts+%26+Tops&channel=de&productsPerPage=5&followSearch=9855&ref=&keyword=&catalogId=&userName=&langId=&resultsWithTopSellers=&signIn=&storeId=&greetingMsg=&cm_mmc=&format=XML",
+                            "dt": "Shirts & Tops",
+                            "count": "904"
+                        },
+                        {
+                            "sqs": "/QVC/Search.ff?query=shirt&filterCategorie_Desc=Nachtw%C3%A4sche&channel=de&productsPerPage=5&followSearch=9855&ref=&keyword=&catalogId=&userName=&langId=&resultsWithTopSellers=&signIn=&storeId=&greetingMsg=&cm_mmc=&format=XML",
+                            "dt": "Nachtwäsche",
+                            "count": "116"
+                        },
+                        {
+                            "sqs": "/QVC/Search.ff?query=shirt&filterCategorie_Desc=W%C3%A4sche&channel=de&productsPerPage=5&followSearch=9855&ref=&keyword=&catalogId=&userName=&langId=&resultsWithTopSellers=&signIn=&storeId=&greetingMsg=&cm_mmc=&format=XML",
+                            "dt": "Wäsche",
+                            "count": "21"
+                        },
+                        {
+                            "sqs": "/QVC/Search.ff?query=shirt&filterCategorie_Desc=Mehrteiler&channel=de&productsPerPage=5&followSearch=9855&ref=&keyword=&catalogId=&userName=&langId=&resultsWithTopSellers=&signIn=&storeId=&greetingMsg=&cm_mmc=&format=XML",
+                            "dt": "Mehrteiler",
+                            "count": "20"
+                        },
+                        {
+                            "sqs": "/QVC/Search.ff?query=shirt&filterCategorie_Desc=Homewear&channel=de&productsPerPage=5&followSearch=9855&ref=&keyword=&catalogId=&userName=&langId=&resultsWithTopSellers=&signIn=&storeId=&greetingMsg=&cm_mmc=&format=XML",
+                            "dt": "Homewear",
+                            "count": "14"
+                        },
+                        {
+                            "sqs": "/QVC/Search.ff?query=shirt&filterCategorie_Desc=Strickjacken&channel=de&productsPerPage=5&followSearch=9855&ref=&keyword=&catalogId=&userName=&langId=&resultsWithTopSellers=&signIn=&storeId=&greetingMsg=&cm_mmc=&format=XML",
+                            "dt": "Strickjacken",
+                            "count": "10"
+                        },
+                        {
+                            "sqs": "/QVC/Search.ff?query=shirt&filterCategorie_Desc=Kleider+%26+R%C3%B6cke&channel=de&productsPerPage=5&followSearch=9855&ref=&keyword=&catalogId=&userName=&langId=&resultsWithTopSellers=&signIn=&storeId=&greetingMsg=&cm_mmc=&format=XML",
+                            "dt": "Kleider & Röcke",
+                            "count": "5"
+                        },
+                        {
+                            "sqs": "/QVC/Search.ff?query=shirt&filterCategorie_Desc=Pullover&channel=de&productsPerPage=5&followSearch=9855&ref=&keyword=&catalogId=&userName=&langId=&resultsWithTopSellers=&signIn=&storeId=&greetingMsg=&cm_mmc=&format=XML",
+                            "dt": "Pullover",
+                            "count": "4"
+                        },
+                        {
+                            "sqs": "/QVC/Search.ff?query=shirt&filterCategorie_Desc=Basteltechniken&channel=de&productsPerPage=5&followSearch=9855&ref=&keyword=&catalogId=&userName=&langId=&resultsWithTopSellers=&signIn=&storeId=&greetingMsg=&cm_mmc=&format=XML",
+                            "dt": "Basteltechniken",
+                            "count": "3"
+                        },
+                        {
+                            "sqs": "/QVC/Search.ff?query=shirt&filterCategorie_Desc=Ketten+%26+Colliers&channel=de&productsPerPage=5&followSearch=9855&ref=&keyword=&catalogId=&userName=&langId=&resultsWithTopSellers=&signIn=&storeId=&greetingMsg=&cm_mmc=&format=XML",
+                            "dt": "Ketten & Colliers",
+                            "count": "3"
+                        },
+                        {
+                            "sqs": "/QVC/Search.ff?query=shirt&filterCategorie_Desc=Bastelmaterialien+%26+-helfer&channel=de&productsPerPage=5&followSearch=9855&ref=&keyword=&catalogId=&userName=&langId=&resultsWithTopSellers=&signIn=&storeId=&greetingMsg=&cm_mmc=&format=XML",
+                            "dt": "Bastelmaterialien & -helfer",
+                            "count": "2"
+                        },
+                        {
+                            "sqs": "/QVC/Search.ff?query=shirt&filterCategorie_Desc=Blusen+%26+Hemden&channel=de&productsPerPage=5&followSearch=9855&ref=&keyword=&catalogId=&userName=&langId=&resultsWithTopSellers=&signIn=&storeId=&greetingMsg=&cm_mmc=&format=XML",
+                            "dt": "Blusen & Hemden",
+                            "count": "2"
+                        },
+                        {
+                            "sqs": "/QVC/Search.ff?query=shirt&filterCategorie_Desc=Accessoires&channel=de&productsPerPage=5&followSearch=9855&ref=&keyword=&catalogId=&userName=&langId=&resultsWithTopSellers=&signIn=&storeId=&greetingMsg=&cm_mmc=&format=XML",
+                            "dt": "Accessoires",
+                            "count": "1"
+                        },
+                        {
+                            "sqs": "/QVC/Search.ff?query=shirt&filterCategorie_Desc=Armschmuck&channel=de&productsPerPage=5&followSearch=9855&ref=&keyword=&catalogId=&userName=&langId=&resultsWithTopSellers=&signIn=&storeId=&greetingMsg=&cm_mmc=&format=XML",
+                            "dt": "Armschmuck",
+                            "count": "1"
+                        },
+                        {
+                            "sqs": "/QVC/Search.ff?query=shirt&filterCategorie_Desc=Hosen&channel=de&productsPerPage=5&followSearch=9855&ref=&keyword=&catalogId=&userName=&langId=&resultsWithTopSellers=&signIn=&storeId=&greetingMsg=&cm_mmc=&format=XML",
+                            "dt": "Hosen",
+                            "count": "1"
+                        },
+                        {
+                            "sqs": "/QVC/Search.ff?query=shirt&filterCategorie_Desc=Jacken+%26+M%C3%A4ntel&channel=de&productsPerPage=5&followSearch=9855&ref=&keyword=&catalogId=&userName=&langId=&resultsWithTopSellers=&signIn=&storeId=&greetingMsg=&cm_mmc=&format=XML",
+                            "dt": "Jacken & Mäntel",
+                            "count": "1"
+                        },
+                        {
+                            "sqs": "/QVC/Search.ff?query=shirt&filterCategorie_Desc=Ringe&channel=de&productsPerPage=5&followSearch=9855&ref=&keyword=&catalogId=&userName=&langId=&resultsWithTopSellers=&signIn=&storeId=&greetingMsg=&cm_mmc=&format=XML",
+                            "dt": "Ringe",
+                            "count": "1"
+                        },
+                        {
+                            "sqs": "/QVC/Search.ff?query=shirt&filterCategorie_Desc=Sammeln&channel=de&productsPerPage=5&followSearch=9855&ref=&keyword=&catalogId=&userName=&langId=&resultsWithTopSellers=&signIn=&storeId=&greetingMsg=&cm_mmc=&format=XML",
+                            "dt": "Sammeln",
+                            "count": "1"
+                        }
+                    ]
+                },
+                {
+                    "dt": "Marke",
+                    "att": [
+                        {
+                            "sqs": "/QVC/Search.ff?query=shirt&filterBrand=IN-PRINT&channel=de&productsPerPage=5&followSearch=9855&ref=&keyword=&catalogId=&userName=&langId=&resultsWithTopSellers=&signIn=&storeId=&greetingMsg=&cm_mmc=&format=XML",
+                            "dt": "IN-PRINT",
+                            "count": "220"
+                        },
+                        {
+                            "sqs": "/QVC/Search.ff?query=shirt&filterBrand=KIM+%26+CO.&channel=de&productsPerPage=5&followSearch=9855&ref=&keyword=&catalogId=&userName=&langId=&resultsWithTopSellers=&signIn=&storeId=&greetingMsg=&cm_mmc=&format=XML",
+                            "dt": "KIM & CO.",
+                            "count": "135"
+                        },
+                        {
+                            "sqs": "/QVC/Search.ff?query=shirt&filterBrand=POMP%C3%96%C3%96S+DESIGN+by+Harald+Gl%C3%B6ckler&channel=de&productsPerPage=5&followSearch=9855&ref=&keyword=&catalogId=&userName=&langId=&resultsWithTopSellers=&signIn=&storeId=&greetingMsg=&cm_mmc=&format=XML",
+                            "dt": "POMPÖÖS DESIGN by Harald Glöckler",
+                            "count": "113"
+                        },
+                        {
+                            "sqs": "/QVC/Search.ff?query=shirt&filterBrand=CITIKNITS&channel=de&productsPerPage=5&followSearch=9855&ref=&keyword=&catalogId=&userName=&langId=&resultsWithTopSellers=&signIn=&storeId=&greetingMsg=&cm_mmc=&format=XML",
+                            "dt": "CITIKNITS",
+                            "count": "99"
+                        },
+                        {
+                            "sqs": "/QVC/Search.ff?query=shirt&filterBrand=LITTLE+ROSE&channel=de&productsPerPage=5&followSearch=9855&ref=&keyword=&catalogId=&userName=&langId=&resultsWithTopSellers=&signIn=&storeId=&greetingMsg=&cm_mmc=&format=XML",
+                            "dt": "LITTLE ROSE",
+                            "count": "77"
+                        },
+                        {
+                            "sqs": "/QVC/Search.ff?query=shirt&filterBrand=VIA+MILANO&channel=de&productsPerPage=5&followSearch=9855&ref=&keyword=&catalogId=&userName=&langId=&resultsWithTopSellers=&signIn=&storeId=&greetingMsg=&cm_mmc=&format=XML",
+                            "dt": "VIA MILANO",
+                            "count": "73"
+                        },
+                        {
+                            "sqs": "/QVC/Search.ff?query=shirt&filterBrand=DENIM+%26+CO.&channel=de&productsPerPage=5&followSearch=9855&ref=&keyword=&catalogId=&userName=&langId=&resultsWithTopSellers=&signIn=&storeId=&greetingMsg=&cm_mmc=&format=XML",
+                            "dt": "DENIM & CO.",
+                            "count": "58"
+                        },
+                        {
+                            "sqs": "/QVC/Search.ff?query=shirt&filterBrand=M.ASAM&channel=de&productsPerPage=5&followSearch=9855&ref=&keyword=&catalogId=&userName=&langId=&resultsWithTopSellers=&signIn=&storeId=&greetingMsg=&cm_mmc=&format=XML",
+                            "dt": "M.ASAM",
+                            "count": "54"
+                        },
+                        {
+                            "sqs": "/QVC/Search.ff?query=shirt&filterBrand=IN-SPOTS&channel=de&productsPerPage=5&followSearch=9855&ref=&keyword=&catalogId=&userName=&langId=&resultsWithTopSellers=&signIn=&storeId=&greetingMsg=&cm_mmc=&format=XML",
+                            "dt": "IN-SPOTS",
+                            "count": "50"
+                        },
+                        {
+                            "sqs": "/QVC/Search.ff?query=shirt&filterBrand=MEN%27S+TOUCH&channel=de&productsPerPage=5&followSearch=9855&ref=&keyword=&catalogId=&userName=&langId=&resultsWithTopSellers=&signIn=&storeId=&greetingMsg=&cm_mmc=&format=XML",
+                            "dt": "MEN'S TOUCH",
+                            "count": "41"
+                        },
+                        {
+                            "sqs": "/QVC/Search.ff?query=shirt&filterBrand=MAREN+GILZER&channel=de&productsPerPage=5&followSearch=9855&ref=&keyword=&catalogId=&userName=&langId=&resultsWithTopSellers=&signIn=&storeId=&greetingMsg=&cm_mmc=&format=XML",
+                            "dt": "MAREN GILZER",
+                            "count": "35"
+                        },
+                        {
+                            "sqs": "/QVC/Search.ff?query=shirt&filterBrand=JERYMOOD&channel=de&productsPerPage=5&followSearch=9855&ref=&keyword=&catalogId=&userName=&langId=&resultsWithTopSellers=&signIn=&storeId=&greetingMsg=&cm_mmc=&format=XML",
+                            "dt": "JERYMOOD",
+                            "count": "14"
+                        },
+                        {
+                            "sqs": "/QVC/Search.ff?query=shirt&filterBrand=APANAGE&channel=de&productsPerPage=5&followSearch=9855&ref=&keyword=&catalogId=&userName=&langId=&resultsWithTopSellers=&signIn=&storeId=&greetingMsg=&cm_mmc=&format=XML",
+                            "dt": "APANAGE",
+                            "count": "13"
+                        },
+                        {
+                            "sqs": "/QVC/Search.ff?query=shirt&filterBrand=CACHE+COUTURE&channel=de&productsPerPage=5&followSearch=9855&ref=&keyword=&catalogId=&userName=&langId=&resultsWithTopSellers=&signIn=&storeId=&greetingMsg=&cm_mmc=&format=XML",
+                            "dt": "CACHE COUTURE",
+                            "count": "13"
+                        },
+                        {
+                            "sqs": "/QVC/Search.ff?query=shirt&filterBrand=DAILY+COMFORT&channel=de&productsPerPage=5&followSearch=9855&ref=&keyword=&catalogId=&userName=&langId=&resultsWithTopSellers=&signIn=&storeId=&greetingMsg=&cm_mmc=&format=XML",
+                            "dt": "DAILY COMFORT",
+                            "count": "13"
+                        },
+                        {
+                            "sqs": "/QVC/Search.ff?query=shirt&filterBrand=MUREK&channel=de&productsPerPage=5&followSearch=9855&ref=&keyword=&catalogId=&userName=&langId=&resultsWithTopSellers=&signIn=&storeId=&greetingMsg=&cm_mmc=&format=XML",
+                            "dt": "MUREK",
+                            "count": "12"
+                        },
+                        {
+                            "sqs": "/QVC/Search.ff?query=shirt&filterBrand=SCHENKENBERG&channel=de&productsPerPage=5&followSearch=9855&ref=&keyword=&catalogId=&userName=&langId=&resultsWithTopSellers=&signIn=&storeId=&greetingMsg=&cm_mmc=&format=XML",
+                            "dt": "SCHENKENBERG",
+                            "count": "12"
+                        },
+                        {
+                            "sqs": "/QVC/Search.ff?query=shirt&filterBrand=KAPALUA&channel=de&productsPerPage=5&followSearch=9855&ref=&keyword=&catalogId=&userName=&langId=&resultsWithTopSellers=&signIn=&storeId=&greetingMsg=&cm_mmc=&format=XML",
+                            "dt": "KAPALUA",
+                            "count": "10"
+                        },
+                        {
+                            "sqs": "/QVC/Search.ff?query=shirt&filterBrand=CYDNEY+MAR&channel=de&productsPerPage=5&followSearch=9855&ref=&keyword=&catalogId=&userName=&langId=&resultsWithTopSellers=&signIn=&storeId=&greetingMsg=&cm_mmc=&format=XML",
+                            "dt": "CYDNEY MAR",
+                            "count": "8"
+                        },
+                        {
+                            "sqs": "/QVC/Search.ff?query=shirt&filterBrand=RITA+PFEFFINGER&channel=de&productsPerPage=5&followSearch=9855&ref=&keyword=&catalogId=&userName=&langId=&resultsWithTopSellers=&signIn=&storeId=&greetingMsg=&cm_mmc=&format=XML",
+                            "dt": "RITA PFEFFINGER",
+                            "count": "8"
+                        },
+                        {
+                            "sqs": "/QVC/Search.ff?query=shirt&filterBrand=ART+%26+COLOUR&channel=de&productsPerPage=5&followSearch=9855&ref=&keyword=&catalogId=&userName=&langId=&resultsWithTopSellers=&signIn=&storeId=&greetingMsg=&cm_mmc=&format=XML",
+                            "dt": "ART & COLOUR",
+                            "count": "7"
+                        },
+                        {
+                            "sqs": "/QVC/Search.ff?query=shirt&filterBrand=HEARTBEAT&channel=de&productsPerPage=5&followSearch=9855&ref=&keyword=&catalogId=&userName=&langId=&resultsWithTopSellers=&signIn=&storeId=&greetingMsg=&cm_mmc=&format=XML",
+                            "dt": "HEARTBEAT",
+                            "count": "5"
+                        },
+                        {
+                            "sqs": "/QVC/Search.ff?query=shirt&filterBrand=STYLE+INC.&channel=de&productsPerPage=5&followSearch=9855&ref=&keyword=&catalogId=&userName=&langId=&resultsWithTopSellers=&signIn=&storeId=&greetingMsg=&cm_mmc=&format=XML",
+                            "dt": "STYLE INC.",
+                            "count": "4"
+                        },
+                        {
+                            "sqs": "/QVC/Search.ff?query=shirt&filterBrand=HEIKE+SCH%C3%84FER&channel=de&productsPerPage=5&followSearch=9855&ref=&keyword=&catalogId=&userName=&langId=&resultsWithTopSellers=&signIn=&storeId=&greetingMsg=&cm_mmc=&format=XML",
+                            "dt": "HEIKE SCHÄFER",
+                            "count": "3"
+                        },
+                        {
+                            "sqs": "/QVC/Search.ff?query=shirt&filterBrand=VANILIA&channel=de&productsPerPage=5&followSearch=9855&ref=&keyword=&catalogId=&userName=&langId=&resultsWithTopSellers=&signIn=&storeId=&greetingMsg=&cm_mmc=&format=XML",
+                            "dt": "VANILIA",
+                            "count": "3"
+                        },
+                        {
+                            "sqs": "/QVC/Search.ff?query=shirt&filterBrand=CASHMASOFT&channel=de&productsPerPage=5&followSearch=9855&ref=&keyword=&catalogId=&userName=&langId=&resultsWithTopSellers=&signIn=&storeId=&greetingMsg=&cm_mmc=&format=XML",
+                            "dt": "CASHMASOFT",
+                            "count": "2"
+                        },
+                        {
+                            "sqs": "/QVC/Search.ff?query=shirt&filterBrand=DENNIS+BASSO&channel=de&productsPerPage=5&followSearch=9855&ref=&keyword=&catalogId=&userName=&langId=&resultsWithTopSellers=&signIn=&storeId=&greetingMsg=&cm_mmc=&format=XML",
+                            "dt": "DENNIS BASSO",
+                            "count": "2"
+                        },
+                        {
+                            "sqs": "/QVC/Search.ff?query=shirt&filterBrand=INDIGO+MOON&channel=de&productsPerPage=5&followSearch=9855&ref=&keyword=&catalogId=&userName=&langId=&resultsWithTopSellers=&signIn=&storeId=&greetingMsg=&cm_mmc=&format=XML",
+                            "dt": "INDIGO MOON",
+                            "count": "2"
+                        },
+                        {
+                            "sqs": "/QVC/Search.ff?query=shirt&filterBrand=JEAN+C.&channel=de&productsPerPage=5&followSearch=9855&ref=&keyword=&catalogId=&userName=&langId=&resultsWithTopSellers=&signIn=&storeId=&greetingMsg=&cm_mmc=&format=XML",
+                            "dt": "JEAN C.",
+                            "count": "2"
+                        },
+                        {
+                            "sqs": "/QVC/Search.ff?query=shirt&filterBrand=KARIN+JITTENMEIER&channel=de&productsPerPage=5&followSearch=9855&ref=&keyword=&catalogId=&userName=&langId=&resultsWithTopSellers=&signIn=&storeId=&greetingMsg=&cm_mmc=&format=XML",
+                            "dt": "KARIN JITTENMEIER",
+                            "count": "2"
+                        },
+                        {
+                            "sqs": "/QVC/Search.ff?query=shirt&filterBrand=NICKYMOOD&channel=de&productsPerPage=5&followSearch=9855&ref=&keyword=&catalogId=&userName=&langId=&resultsWithTopSellers=&signIn=&storeId=&greetingMsg=&cm_mmc=&format=XML",
+                            "dt": "NICKYMOOD",
+                            "count": "2"
+                        },
+                        {
+                            "sqs": "/QVC/Search.ff?query=shirt&filterBrand=POLARSTERN&channel=de&productsPerPage=5&followSearch=9855&ref=&keyword=&catalogId=&userName=&langId=&resultsWithTopSellers=&signIn=&storeId=&greetingMsg=&cm_mmc=&format=XML",
+                            "dt": "POLARSTERN",
+                            "count": "2"
+                        },
+                        {
+                            "sqs": "/QVC/Search.ff?query=shirt&filterBrand=WINTERENGEL&channel=de&productsPerPage=5&followSearch=9855&ref=&keyword=&catalogId=&userName=&langId=&resultsWithTopSellers=&signIn=&storeId=&greetingMsg=&cm_mmc=&format=XML",
+                            "dt": "WINTERENGEL",
+                            "count": "2"
+                        },
+                        {
+                            "sqs": "/QVC/Search.ff?query=shirt&filterBrand=BADIZIO&channel=de&productsPerPage=5&followSearch=9855&ref=&keyword=&catalogId=&userName=&langId=&resultsWithTopSellers=&signIn=&storeId=&greetingMsg=&cm_mmc=&format=XML",
+                            "dt": "BADIZIO",
+                            "count": "1"
+                        },
+                        {
+                            "sqs": "/QVC/Search.ff?query=shirt&filterBrand=FORMABELLE&channel=de&productsPerPage=5&followSearch=9855&ref=&keyword=&catalogId=&userName=&langId=&resultsWithTopSellers=&signIn=&storeId=&greetingMsg=&cm_mmc=&format=XML",
+                            "dt": "FORMABELLE",
+                            "count": "1"
+                        },
+                        {
+                            "sqs": "/QVC/Search.ff?query=shirt&filterBrand=MARIANNE+HARTL&channel=de&productsPerPage=5&followSearch=9855&ref=&keyword=&catalogId=&userName=&langId=&resultsWithTopSellers=&signIn=&storeId=&greetingMsg=&cm_mmc=&format=XML",
+                            "dt": "MARIANNE HARTL",
+                            "count": "1"
+                        },
+                        {
+                            "sqs": "/QVC/Search.ff?query=shirt&filterBrand=MAUL+SPORT&channel=de&productsPerPage=5&followSearch=9855&ref=&keyword=&catalogId=&userName=&langId=&resultsWithTopSellers=&signIn=&storeId=&greetingMsg=&cm_mmc=&format=XML",
+                            "dt": "MAUL SPORT",
+                            "count": "1"
+                        },
+                        {
+                            "sqs": "/QVC/Search.ff?query=shirt&filterBrand=NINA+LEONARD&channel=de&productsPerPage=5&followSearch=9855&ref=&keyword=&catalogId=&userName=&langId=&resultsWithTopSellers=&signIn=&storeId=&greetingMsg=&cm_mmc=&format=XML",
+                            "dt": "NINA LEONARD",
+                            "count": "1"
+                        },
+                        {
+                            "sqs": "/QVC/Search.ff?query=shirt&filterBrand=PERLA+DI+MARE&channel=de&productsPerPage=5&followSearch=9855&ref=&keyword=&catalogId=&userName=&langId=&resultsWithTopSellers=&signIn=&storeId=&greetingMsg=&cm_mmc=&format=XML",
+                            "dt": "PERLA DI MARE",
+                            "count": "1"
+                        },
+                        {
+                            "sqs": "/QVC/Search.ff?query=shirt&filterBrand=PERLFEKT&channel=de&productsPerPage=5&followSearch=9855&ref=&keyword=&catalogId=&userName=&langId=&resultsWithTopSellers=&signIn=&storeId=&greetingMsg=&cm_mmc=&format=XML",
+                            "dt": "PERLFEKT",
+                            "count": "1"
+                        },
+                        {
+                            "sqs": "/QVC/Search.ff?query=shirt&filterBrand=SCHILDKR%C3%96T&channel=de&productsPerPage=5&followSearch=9855&ref=&keyword=&catalogId=&userName=&langId=&resultsWithTopSellers=&signIn=&storeId=&greetingMsg=&cm_mmc=&format=XML",
+                            "dt": "SCHILDKRÖT",
+                            "count": "1"
+                        },
+                        {
+                            "sqs": "/QVC/Search.ff?query=shirt&filterBrand=SEEBERGER&channel=de&productsPerPage=5&followSearch=9855&ref=&keyword=&catalogId=&userName=&langId=&resultsWithTopSellers=&signIn=&storeId=&greetingMsg=&cm_mmc=&format=XML",
+                            "dt": "SEEBERGER",
+                            "count": "1"
+                        },
+                        {
+                            "sqs": "/QVC/Search.ff?query=shirt&filterBrand=SOLE+MIA&channel=de&productsPerPage=5&followSearch=9855&ref=&keyword=&catalogId=&userName=&langId=&resultsWithTopSellers=&signIn=&storeId=&greetingMsg=&cm_mmc=&format=XML",
+                            "dt": "SOLE MIA",
+                            "count": "1"
+                        },
+                        {
+                            "sqs": "/QVC/Search.ff?query=shirt&filterBrand=STNS+by+Dressmaster&channel=de&productsPerPage=5&followSearch=9855&ref=&keyword=&catalogId=&userName=&langId=&resultsWithTopSellers=&signIn=&storeId=&greetingMsg=&cm_mmc=&format=XML",
+                            "dt": "STNS by Dressmaster",
+                            "count": "1"
+                        },
+                        {
+                            "sqs": "/QVC/Search.ff?query=shirt&filterBrand=TODAY%27S+WOMAN&channel=de&productsPerPage=5&followSearch=9855&ref=&keyword=&catalogId=&userName=&langId=&resultsWithTopSellers=&signIn=&storeId=&greetingMsg=&cm_mmc=&format=XML",
+                            "dt": "TODAY'S WOMAN",
+                            "count": "1"
+                        }
+                    ]
+                },
+                {
+                    "dt": "Preis",
+                    "att": [
+                        {
+                            "sqs": "/QVC/Search.ff?query=shirt&filterminPrice=10.01+-+25.00&channel=de&productsPerPage=5&followSearch=9855&ref=&keyword=&catalogId=&userName=&langId=&resultsWithTopSellers=&signIn=&storeId=&greetingMsg=&cm_mmc=&format=XML",
+                            "dt": " € 10 - € 25",
+                            "count": "186"
+                        },
+                        {
+                            "sqs": "/QVC/Search.ff?query=shirt&filterminPrice=25.01+-+50.00&channel=de&productsPerPage=5&followSearch=9855&ref=&keyword=&catalogId=&userName=&langId=&resultsWithTopSellers=&signIn=&storeId=&greetingMsg=&cm_mmc=&format=XML",
+                            "dt": " € 25 - € 50",
+                            "count": "717"
+                        },
+                        {
+                            "sqs": "/QVC/Search.ff?query=shirt&filterminPrice=50.01+-+100.00&channel=de&productsPerPage=5&followSearch=9855&ref=&keyword=&catalogId=&userName=&langId=&resultsWithTopSellers=&signIn=&storeId=&greetingMsg=&cm_mmc=&format=XML",
+                            "dt": " € 50 - € 100",
+                            "count": "199"
+                        },
+                        {
+                            "sqs": "/QVC/Search.ff?query=shirt&filterminPrice=100.01+-+200.00&channel=de&productsPerPage=5&followSearch=9855&ref=&keyword=&catalogId=&userName=&langId=&resultsWithTopSellers=&signIn=&storeId=&greetingMsg=&cm_mmc=&format=XML",
+                            "dt": " € 100 - € 200",
+                            "count": "4"
+                        },
+                        {
+                            "sqs": "/QVC/Search.ff?query=shirt&filterminPrice=200.01+-+500.00&channel=de&productsPerPage=5&followSearch=9855&ref=&keyword=&catalogId=&userName=&langId=&resultsWithTopSellers=&signIn=&storeId=&greetingMsg=&cm_mmc=&format=XML",
+                            "dt": " € 200 - € 500",
+                            "count": "3"
+                        },
+                        {
+                            "sqs": "/QVC/Search.ff?query=shirt&filterminPrice=500.01+-+1000.00&channel=de&productsPerPage=5&followSearch=9855&ref=&keyword=&catalogId=&userName=&langId=&resultsWithTopSellers=&signIn=&storeId=&greetingMsg=&cm_mmc=&format=XML",
+                            "dt": " € 500 - € 1000",
+                            "count": "1"
+                        }
+                    ]
+                },
+                {
+                    "dt": "Farbe",
+                    "att": [
+                        {
+                            "sqs": "/QVC/Search.ff?query=shirt&filterColour=Schwarz&channel=de&productsPerPage=5&followSearch=9855&ref=&keyword=&catalogId=&userName=&langId=&resultsWithTopSellers=&signIn=&storeId=&greetingMsg=&cm_mmc=&format=XML",
+                            "dt": "Schwarz",
+                            "count": "314"
+                        },
+                        {
+                            "sqs": "/QVC/Search.ff?query=shirt&filterColour=Blau&channel=de&productsPerPage=5&followSearch=9855&ref=&keyword=&catalogId=&userName=&langId=&resultsWithTopSellers=&signIn=&storeId=&greetingMsg=&cm_mmc=&format=XML",
+                            "dt": "Blau",
+                            "count": "301"
+                        },
+                        {
+                            "sqs": "/QVC/Search.ff?query=shirt&filterColour=Grau&channel=de&productsPerPage=5&followSearch=9855&ref=&keyword=&catalogId=&userName=&langId=&resultsWithTopSellers=&signIn=&storeId=&greetingMsg=&cm_mmc=&format=XML",
+                            "dt": "Grau",
+                            "count": "182"
+                        },
+                        {
+                            "sqs": "/QVC/Search.ff?query=shirt&filterColour=Weiss&channel=de&productsPerPage=5&followSearch=9855&ref=&keyword=&catalogId=&userName=&langId=&resultsWithTopSellers=&signIn=&storeId=&greetingMsg=&cm_mmc=&format=XML",
+                            "dt": "Weiss",
+                            "count": "164"
+                        },
+                        {
+                            "sqs": "/QVC/Search.ff?query=shirt&filterColour=Rot&channel=de&productsPerPage=5&followSearch=9855&ref=&keyword=&catalogId=&userName=&langId=&resultsWithTopSellers=&signIn=&storeId=&greetingMsg=&cm_mmc=&format=XML",
+                            "dt": "Rot",
+                            "count": "159"
+                        },
+                        {
+                            "sqs": "/QVC/Search.ff?query=shirt&filterColour=Gr%C3%BCn&channel=de&productsPerPage=5&followSearch=9855&ref=&keyword=&catalogId=&userName=&langId=&resultsWithTopSellers=&signIn=&storeId=&greetingMsg=&cm_mmc=&format=XML",
+                            "dt": "Grün",
+                            "count": "157"
+                        },
+                        {
+                            "sqs": "/QVC/Search.ff?query=shirt&filterColour=Lila&channel=de&productsPerPage=5&followSearch=9855&ref=&keyword=&catalogId=&userName=&langId=&resultsWithTopSellers=&signIn=&storeId=&greetingMsg=&cm_mmc=&format=XML",
+                            "dt": "Lila",
+                            "count": "142"
+                        },
+                        {
+                            "sqs": "/QVC/Search.ff?query=shirt&filterColour=Rosa&channel=de&productsPerPage=5&followSearch=9855&ref=&keyword=&catalogId=&userName=&langId=&resultsWithTopSellers=&signIn=&storeId=&greetingMsg=&cm_mmc=&format=XML",
+                            "dt": "Rosa",
+                            "count": "142"
+                        },
+                        {
+                            "sqs": "/QVC/Search.ff?query=shirt&filterColour=Orange&channel=de&productsPerPage=5&followSearch=9855&ref=&keyword=&catalogId=&userName=&langId=&resultsWithTopSellers=&signIn=&storeId=&greetingMsg=&cm_mmc=&format=XML",
+                            "dt": "Orange",
+                            "count": "109"
+                        },
+                        {
+                            "sqs": "/QVC/Search.ff?query=shirt&filterColour=Braun&channel=de&productsPerPage=5&followSearch=9855&ref=&keyword=&catalogId=&userName=&langId=&resultsWithTopSellers=&signIn=&storeId=&greetingMsg=&cm_mmc=&format=XML",
+                            "dt": "Braun",
+                            "count": "70"
+                        },
+                        {
+                            "sqs": "/QVC/Search.ff?query=shirt&filterColour=Beige&channel=de&productsPerPage=5&followSearch=9855&ref=&keyword=&catalogId=&userName=&langId=&resultsWithTopSellers=&signIn=&storeId=&greetingMsg=&cm_mmc=&format=XML",
+                            "dt": "Beige",
+                            "count": "54"
+                        },
+                        {
+                            "sqs": "/QVC/Search.ff?query=shirt&filterColour=Petrol&channel=de&productsPerPage=5&followSearch=9855&ref=&keyword=&catalogId=&userName=&langId=&resultsWithTopSellers=&signIn=&storeId=&greetingMsg=&cm_mmc=&format=XML",
+                            "dt": "Petrol",
+                            "count": "44"
+                        },
+                        {
+                            "sqs": "/QVC/Search.ff?query=shirt&filterColour=Multicolor&channel=de&productsPerPage=5&followSearch=9855&ref=&keyword=&catalogId=&userName=&langId=&resultsWithTopSellers=&signIn=&storeId=&greetingMsg=&cm_mmc=&format=XML",
+                            "dt": "Multicolor",
+                            "count": "39"
+                        },
+                        {
+                            "sqs": "/QVC/Search.ff?query=shirt&filterColour=Gelb&channel=de&productsPerPage=5&followSearch=9855&ref=&keyword=&catalogId=&userName=&langId=&resultsWithTopSellers=&signIn=&storeId=&greetingMsg=&cm_mmc=&format=XML",
+                            "dt": "Gelb",
+                            "count": "37"
+                        },
+                        {
+                            "sqs": "/QVC/Search.ff?query=shirt&filterColour=Creme&channel=de&productsPerPage=5&followSearch=9855&ref=&keyword=&catalogId=&userName=&langId=&resultsWithTopSellers=&signIn=&storeId=&greetingMsg=&cm_mmc=&format=XML",
+                            "dt": "Creme",
+                            "count": "33"
+                        },
+                        {
+                            "sqs": "/QVC/Search.ff?query=shirt&filterColour=Leopard&channel=de&productsPerPage=5&followSearch=9855&ref=&keyword=&catalogId=&userName=&langId=&resultsWithTopSellers=&signIn=&storeId=&greetingMsg=&cm_mmc=&format=XML",
+                            "dt": "Leopard",
+                            "count": "17"
+                        },
+                        {
+                            "sqs": "/QVC/Search.ff?query=shirt&filterColour=Gemustert&channel=de&productsPerPage=5&followSearch=9855&ref=&keyword=&catalogId=&userName=&langId=&resultsWithTopSellers=&signIn=&storeId=&greetingMsg=&cm_mmc=&format=XML",
+                            "dt": "Gemustert",
+                            "count": "5"
+                        },
+                        {
+                            "sqs": "/QVC/Search.ff?query=shirt&filterColour=Khaki&channel=de&productsPerPage=5&followSearch=9855&ref=&keyword=&catalogId=&userName=&langId=&resultsWithTopSellers=&signIn=&storeId=&greetingMsg=&cm_mmc=&format=XML",
+                            "dt": "Khaki",
+                            "count": "5"
+                        },
+                        {
+                            "sqs": "/QVC/Search.ff?query=shirt&filterColour=Haut&channel=de&productsPerPage=5&followSearch=9855&ref=&keyword=&catalogId=&userName=&langId=&resultsWithTopSellers=&signIn=&storeId=&greetingMsg=&cm_mmc=&format=XML",
+                            "dt": "Haut",
+                            "count": "4"
+                        },
+                        {
+                            "sqs": "/QVC/Search.ff?query=shirt&filterColour=Zebra&channel=de&productsPerPage=5&followSearch=9855&ref=&keyword=&catalogId=&userName=&langId=&resultsWithTopSellers=&signIn=&storeId=&greetingMsg=&cm_mmc=&format=XML",
+                            "dt": "Zebra",
+                            "count": "2"
+                        },
+                        {
+                            "sqs": "/QVC/Search.ff?query=shirt&filterColour=Camel&channel=de&productsPerPage=5&followSearch=9855&ref=&keyword=&catalogId=&userName=&langId=&resultsWithTopSellers=&signIn=&storeId=&greetingMsg=&cm_mmc=&format=XML",
+                            "dt": "Camel",
+                            "count": "1"
+                        }
+                    ]
+                },
+                {
+                    "dt": "Größe",
+                    "att": [
+                        {
+                            "sqs": "/QVC/Search.ff?query=shirt&filterSize=100B&channel=de&productsPerPage=5&followSearch=9855&ref=&keyword=&catalogId=&userName=&langId=&resultsWithTopSellers=&signIn=&storeId=&greetingMsg=&cm_mmc=&format=XML",
+                            "dt": "100B",
+                            "count": "1"
+                        },
+                        {
+                            "sqs": "/QVC/Search.ff?query=shirt&filterSize=100D&channel=de&productsPerPage=5&followSearch=9855&ref=&keyword=&catalogId=&userName=&langId=&resultsWithTopSellers=&signIn=&storeId=&greetingMsg=&cm_mmc=&format=XML",
+                            "dt": "100D",
+                            "count": "1"
+                        },
+                        {
+                            "sqs": "/QVC/Search.ff?query=shirt&filterSize=100E&channel=de&productsPerPage=5&followSearch=9855&ref=&keyword=&catalogId=&userName=&langId=&resultsWithTopSellers=&signIn=&storeId=&greetingMsg=&cm_mmc=&format=XML",
+                            "dt": "100E",
+                            "count": "1"
+                        },
+                        {
+                            "sqs": "/QVC/Search.ff?query=shirt&filterSize=105B&channel=de&productsPerPage=5&followSearch=9855&ref=&keyword=&catalogId=&userName=&langId=&resultsWithTopSellers=&signIn=&storeId=&greetingMsg=&cm_mmc=&format=XML",
+                            "dt": "105B",
+                            "count": "1"
+                        },
+                        {
+                            "sqs": "/QVC/Search.ff?query=shirt&filterSize=3XL&channel=de&productsPerPage=5&followSearch=9855&ref=&keyword=&catalogId=&userName=&langId=&resultsWithTopSellers=&signIn=&storeId=&greetingMsg=&cm_mmc=&format=XML",
+                            "dt": "3XL",
+                            "count": "133"
+                        },
+                        {
+                            "sqs": "/QVC/Search.ff?query=shirt&filterSize=75B&channel=de&productsPerPage=5&followSearch=9855&ref=&keyword=&catalogId=&userName=&langId=&resultsWithTopSellers=&signIn=&storeId=&greetingMsg=&cm_mmc=&format=XML",
+                            "dt": "75B",
+                            "count": "1"
+                        },
+                        {
+                            "sqs": "/QVC/Search.ff?query=shirt&filterSize=75C&channel=de&productsPerPage=5&followSearch=9855&ref=&keyword=&catalogId=&userName=&langId=&resultsWithTopSellers=&signIn=&storeId=&greetingMsg=&cm_mmc=&format=XML",
+                            "dt": "75C",
+                            "count": "1"
+                        },
+                        {
+                            "sqs": "/QVC/Search.ff?query=shirt&filterSize=75D&channel=de&productsPerPage=5&followSearch=9855&ref=&keyword=&catalogId=&userName=&langId=&resultsWithTopSellers=&signIn=&storeId=&greetingMsg=&cm_mmc=&format=XML",
+                            "dt": "75D",
+                            "count": "1"
+                        },
+                        {
+                            "sqs": "/QVC/Search.ff?query=shirt&filterSize=80B&channel=de&productsPerPage=5&followSearch=9855&ref=&keyword=&catalogId=&userName=&langId=&resultsWithTopSellers=&signIn=&storeId=&greetingMsg=&cm_mmc=&format=XML",
+                            "dt": "80B",
+                            "count": "1"
+                        },
+                        {
+                            "sqs": "/QVC/Search.ff?query=shirt&filterSize=80C&channel=de&productsPerPage=5&followSearch=9855&ref=&keyword=&catalogId=&userName=&langId=&resultsWithTopSellers=&signIn=&storeId=&greetingMsg=&cm_mmc=&format=XML",
+                            "dt": "80C",
+                            "count": "2"
+                        },
+                        {
+                            "sqs": "/QVC/Search.ff?query=shirt&filterSize=80D&channel=de&productsPerPage=5&followSearch=9855&ref=&keyword=&catalogId=&userName=&langId=&resultsWithTopSellers=&signIn=&storeId=&greetingMsg=&cm_mmc=&format=XML",
+                            "dt": "80D",
+                            "count": "1"
+                        },
+                        {
+                            "sqs": "/QVC/Search.ff?query=shirt&filterSize=85B&channel=de&productsPerPage=5&followSearch=9855&ref=&keyword=&catalogId=&userName=&langId=&resultsWithTopSellers=&signIn=&storeId=&greetingMsg=&cm_mmc=&format=XML",
+                            "dt": "85B",
+                            "count": "1"
+                        },
+                        {
+                            "sqs": "/QVC/Search.ff?query=shirt&filterSize=85C&channel=de&productsPerPage=5&followSearch=9855&ref=&keyword=&catalogId=&userName=&langId=&resultsWithTopSellers=&signIn=&storeId=&greetingMsg=&cm_mmc=&format=XML",
+                            "dt": "85C",
+                            "count": "2"
+                        },
+                        {
+                            "sqs": "/QVC/Search.ff?query=shirt&filterSize=85D&channel=de&productsPerPage=5&followSearch=9855&ref=&keyword=&catalogId=&userName=&langId=&resultsWithTopSellers=&signIn=&storeId=&greetingMsg=&cm_mmc=&format=XML",
+                            "dt": "85D",
+                            "count": "2"
+                        },
+                        {
+                            "sqs": "/QVC/Search.ff?query=shirt&filterSize=90B&channel=de&productsPerPage=5&followSearch=9855&ref=&keyword=&catalogId=&userName=&langId=&resultsWithTopSellers=&signIn=&storeId=&greetingMsg=&cm_mmc=&format=XML",
+                            "dt": "90B",
+                            "count": "3"
+                        },
+                        {
+                            "sqs": "/QVC/Search.ff?query=shirt&filterSize=90C&channel=de&productsPerPage=5&followSearch=9855&ref=&keyword=&catalogId=&userName=&langId=&resultsWithTopSellers=&signIn=&storeId=&greetingMsg=&cm_mmc=&format=XML",
+                            "dt": "90C",
+                            "count": "3"
+                        },
+                        {
+                            "sqs": "/QVC/Search.ff?query=shirt&filterSize=90D&channel=de&productsPerPage=5&followSearch=9855&ref=&keyword=&catalogId=&userName=&langId=&resultsWithTopSellers=&signIn=&storeId=&greetingMsg=&cm_mmc=&format=XML",
+                            "dt": "90D",
+                            "count": "3"
+                        },
+                        {
+                            "sqs": "/QVC/Search.ff?query=shirt&filterSize=95B&channel=de&productsPerPage=5&followSearch=9855&ref=&keyword=&catalogId=&userName=&langId=&resultsWithTopSellers=&signIn=&storeId=&greetingMsg=&cm_mmc=&format=XML",
+                            "dt": "95B",
+                            "count": "3"
+                        },
+                        {
+                            "sqs": "/QVC/Search.ff?query=shirt&filterSize=95C&channel=de&productsPerPage=5&followSearch=9855&ref=&keyword=&catalogId=&userName=&langId=&resultsWithTopSellers=&signIn=&storeId=&greetingMsg=&cm_mmc=&format=XML",
+                            "dt": "95C",
+                            "count": "3"
+                        },
+                        {
+                            "sqs": "/QVC/Search.ff?query=shirt&filterSize=95D&channel=de&productsPerPage=5&followSearch=9855&ref=&keyword=&catalogId=&userName=&langId=&resultsWithTopSellers=&signIn=&storeId=&greetingMsg=&cm_mmc=&format=XML",
+                            "dt": "95D",
+                            "count": "4"
+                        },
+                        {
+                            "sqs": "/QVC/Search.ff?query=shirt&filterSize=95E&channel=de&productsPerPage=5&followSearch=9855&ref=&keyword=&catalogId=&userName=&langId=&resultsWithTopSellers=&signIn=&storeId=&greetingMsg=&cm_mmc=&format=XML",
+                            "dt": "95E",
+                            "count": "1"
+                        },
+                        {
+                            "sqs": "/QVC/Search.ff?query=shirt&filterSize=EXTRA+SMALL&channel=de&productsPerPage=5&followSearch=9855&ref=&keyword=&catalogId=&userName=&langId=&resultsWithTopSellers=&signIn=&storeId=&greetingMsg=&cm_mmc=&format=XML",
+                            "dt": "EXTRA SMALL",
+                            "count": "120"
+                        },
+                        {
+                            "sqs": "/QVC/Search.ff?query=shirt&filterSize=GR%C3%96SSE+17&channel=de&productsPerPage=5&followSearch=9855&ref=&keyword=&catalogId=&userName=&langId=&resultsWithTopSellers=&signIn=&storeId=&greetingMsg=&cm_mmc=&format=XML",
+                            "dt": "GRÖSSE 17",
+                            "count": "1"
+                        },
+                        {
+                            "sqs": "/QVC/Search.ff?query=shirt&filterSize=GR%C3%96SSE+23&channel=de&productsPerPage=5&followSearch=9855&ref=&keyword=&catalogId=&userName=&langId=&resultsWithTopSellers=&signIn=&storeId=&greetingMsg=&cm_mmc=&format=XML",
+                            "dt": "GRÖSSE 23",
+                            "count": "1"
+                        },
+                        {
+                            "sqs": "/QVC/Search.ff?query=shirt&filterSize=GR%C3%96SSE+26&channel=de&productsPerPage=5&followSearch=9855&ref=&keyword=&catalogId=&userName=&langId=&resultsWithTopSellers=&signIn=&storeId=&greetingMsg=&cm_mmc=&format=XML",
+                            "dt": "GRÖSSE 26",
+                            "count": "1"
+                        },
+                        {
+                            "sqs": "/QVC/Search.ff?query=shirt&filterSize=GR%C3%96SSE+29&channel=de&productsPerPage=5&followSearch=9855&ref=&keyword=&catalogId=&userName=&langId=&resultsWithTopSellers=&signIn=&storeId=&greetingMsg=&cm_mmc=&format=XML",
+                            "dt": "GRÖSSE 29",
+                            "count": "1"
+                        },
+                        {
+                            "sqs": "/QVC/Search.ff?query=shirt&filterSize=GR%C3%96SSE+34&channel=de&productsPerPage=5&followSearch=9855&ref=&keyword=&catalogId=&userName=&langId=&resultsWithTopSellers=&signIn=&storeId=&greetingMsg=&cm_mmc=&format=XML",
+                            "dt": "GRÖSSE 34",
+                            "count": "91"
+                        },
+                        {
+                            "sqs": "/QVC/Search.ff?query=shirt&filterSize=GR%C3%96SSE+36&channel=de&productsPerPage=5&followSearch=9855&ref=&keyword=&catalogId=&userName=&langId=&resultsWithTopSellers=&signIn=&storeId=&greetingMsg=&cm_mmc=&format=XML",
+                            "dt": "GRÖSSE 36",
+                            "count": "253"
+                        },
+                        {
+                            "sqs": "/QVC/Search.ff?query=shirt&filterSize=GR%C3%96SSE+38&channel=de&productsPerPage=5&followSearch=9855&ref=&keyword=&catalogId=&userName=&langId=&resultsWithTopSellers=&signIn=&storeId=&greetingMsg=&cm_mmc=&format=XML",
+                            "dt": "GRÖSSE 38",
+                            "count": "302"
+                        },
+                        {
+                            "sqs": "/QVC/Search.ff?query=shirt&filterSize=GR%C3%96SSE+40&channel=de&productsPerPage=5&followSearch=9855&ref=&keyword=&catalogId=&userName=&langId=&resultsWithTopSellers=&signIn=&storeId=&greetingMsg=&cm_mmc=&format=XML",
+                            "dt": "GRÖSSE 40",
+                            "count": "313"
+                        },
+                        {
+                            "sqs": "/QVC/Search.ff?query=shirt&filterSize=GR%C3%96SSE+42&channel=de&productsPerPage=5&followSearch=9855&ref=&keyword=&catalogId=&userName=&langId=&resultsWithTopSellers=&signIn=&storeId=&greetingMsg=&cm_mmc=&format=XML",
+                            "dt": "GRÖSSE 42",
+                            "count": "328"
+                        },
+                        {
+                            "sqs": "/QVC/Search.ff?query=shirt&filterSize=GR%C3%96SSE+44&channel=de&productsPerPage=5&followSearch=9855&ref=&keyword=&catalogId=&userName=&langId=&resultsWithTopSellers=&signIn=&storeId=&greetingMsg=&cm_mmc=&format=XML",
+                            "dt": "GRÖSSE 44",
+                            "count": "302"
+                        },
+                        {
+                            "sqs": "/QVC/Search.ff?query=shirt&filterSize=GR%C3%96SSE+46&channel=de&productsPerPage=5&followSearch=9855&ref=&keyword=&catalogId=&userName=&langId=&resultsWithTopSellers=&signIn=&storeId=&greetingMsg=&cm_mmc=&format=XML",
+                            "dt": "GRÖSSE 46",
+                            "count": "301"
+                        },
+                        {
+                            "sqs": "/QVC/Search.ff?query=shirt&filterSize=GR%C3%96SSE+48&channel=de&productsPerPage=5&followSearch=9855&ref=&keyword=&catalogId=&userName=&langId=&resultsWithTopSellers=&signIn=&storeId=&greetingMsg=&cm_mmc=&format=XML",
+                            "dt": "GRÖSSE 48",
+                            "count": "275"
+                        },
+                        {
+                            "sqs": "/QVC/Search.ff?query=shirt&filterSize=GR%C3%96SSE+50&channel=de&productsPerPage=5&followSearch=9855&ref=&keyword=&catalogId=&userName=&langId=&resultsWithTopSellers=&signIn=&storeId=&greetingMsg=&cm_mmc=&format=XML",
+                            "dt": "GRÖSSE 50",
+                            "count": "171"
+                        },
+                        {
+                            "sqs": "/QVC/Search.ff?query=shirt&filterSize=GR%C3%96SSE+52&channel=de&productsPerPage=5&followSearch=9855&ref=&keyword=&catalogId=&userName=&langId=&resultsWithTopSellers=&signIn=&storeId=&greetingMsg=&cm_mmc=&format=XML",
+                            "dt": "GRÖSSE 52",
+                            "count": "127"
+                        },
+                        {
+                            "sqs": "/QVC/Search.ff?query=shirt&filterSize=GR%C3%96SSE+54&channel=de&productsPerPage=5&followSearch=9855&ref=&keyword=&catalogId=&userName=&langId=&resultsWithTopSellers=&signIn=&storeId=&greetingMsg=&cm_mmc=&format=XML",
+                            "dt": "GRÖSSE 54",
+                            "count": "13"
+                        },
+                        {
+                            "sqs": "/QVC/Search.ff?query=shirt&filterSize=GR%C3%96SSE+56&channel=de&productsPerPage=5&followSearch=9855&ref=&keyword=&catalogId=&userName=&langId=&resultsWithTopSellers=&signIn=&storeId=&greetingMsg=&cm_mmc=&format=XML",
+                            "dt": "GRÖSSE 56",
+                            "count": "16"
+                        },
+                        {
+                            "sqs": "/QVC/Search.ff?query=shirt&filterSize=GR%C3%96SSE+58&channel=de&productsPerPage=5&followSearch=9855&ref=&keyword=&catalogId=&userName=&langId=&resultsWithTopSellers=&signIn=&storeId=&greetingMsg=&cm_mmc=&format=XML",
+                            "dt": "GRÖSSE 58",
+                            "count": "15"
+                        },
+                        {
+                            "sqs": "/QVC/Search.ff?query=shirt&filterSize=GR%C3%96SSE+60&channel=de&productsPerPage=5&followSearch=9855&ref=&keyword=&catalogId=&userName=&langId=&resultsWithTopSellers=&signIn=&storeId=&greetingMsg=&cm_mmc=&format=XML",
+                            "dt": "GRÖSSE 60",
+                            "count": "11"
+                        },
+                        {
+                            "sqs": "/QVC/Search.ff?query=shirt&filterSize=LANGGR%C3%96SSE+L&channel=de&productsPerPage=5&followSearch=9855&ref=&keyword=&catalogId=&userName=&langId=&resultsWithTopSellers=&signIn=&storeId=&greetingMsg=&cm_mmc=&format=XML",
+                            "dt": "LANGGRÖSSE L",
+                            "count": "1"
+                        },
+                        {
+                            "sqs": "/QVC/Search.ff?query=shirt&filterSize=LANGGR%C3%96SSE+M&channel=de&productsPerPage=5&followSearch=9855&ref=&keyword=&catalogId=&userName=&langId=&resultsWithTopSellers=&signIn=&storeId=&greetingMsg=&cm_mmc=&format=XML",
+                            "dt": "LANGGRÖSSE M",
+                            "count": "1"
+                        },
+                        {
+                            "sqs": "/QVC/Search.ff?query=shirt&filterSize=LANGGR%C3%96SSE+S&channel=de&productsPerPage=5&followSearch=9855&ref=&keyword=&catalogId=&userName=&langId=&resultsWithTopSellers=&signIn=&storeId=&greetingMsg=&cm_mmc=&format=XML",
+                            "dt": "LANGGRÖSSE S",
+                            "count": "1"
+                        },
+                        {
+                            "sqs": "/QVC/Search.ff?query=shirt&filterSize=LARGE&channel=de&productsPerPage=5&followSearch=9855&ref=&keyword=&catalogId=&userName=&langId=&resultsWithTopSellers=&signIn=&storeId=&greetingMsg=&cm_mmc=&format=XML",
+                            "dt": "LARGE",
+                            "count": "459"
+                        },
+                        {
+                            "sqs": "/QVC/Search.ff?query=shirt&filterSize=MEDIUM&channel=de&productsPerPage=5&followSearch=9855&ref=&keyword=&catalogId=&userName=&langId=&resultsWithTopSellers=&signIn=&storeId=&greetingMsg=&cm_mmc=&format=XML",
+                            "dt": "MEDIUM",
+                            "count": "527"
+                        },
+                        {
+                            "sqs": "/QVC/Search.ff?query=shirt&filterSize=SMALL&channel=de&productsPerPage=5&followSearch=9855&ref=&keyword=&catalogId=&userName=&langId=&resultsWithTopSellers=&signIn=&storeId=&greetingMsg=&cm_mmc=&format=XML",
+                            "dt": "SMALL",
+                            "count": "564"
+                        },
+                        {
+                            "sqs": "/QVC/Search.ff?query=shirt&filterSize=XL&channel=de&productsPerPage=5&followSearch=9855&ref=&keyword=&catalogId=&userName=&langId=&resultsWithTopSellers=&signIn=&storeId=&greetingMsg=&cm_mmc=&format=XML",
+                            "dt": "XL",
+                            "count": "418"
+                        },
+                        {
+                            "sqs": "/QVC/Search.ff?query=shirt&filterSize=XXL&channel=de&productsPerPage=5&followSearch=9855&ref=&keyword=&catalogId=&userName=&langId=&resultsWithTopSellers=&signIn=&storeId=&greetingMsg=&cm_mmc=&format=XML",
+                            "dt": "XXL",
+                            "count": "379"
+                        }
+                    ]
+                }
+            ]
+        },
+        "FinalSearchQueryString": "null",
+        "SortBy": {
+            "opt": [
+                {
+                    "seq": "0"
+                },
+                {
+                    "seq": "1"
+                },
+                {
+                    "seq": "2"
+                },
+                {
+                    "seq": "3"
+                },
+                {
+                    "seq": "4"
+                },
+                {
+                    "seq": "5"
+                },
+                {
+                    "seq": "6"
+                }
+            ]
+        },
+        "SearchTerm": "shirt"
+    }
+}
+
+
+
+
+
+
+
+
+
