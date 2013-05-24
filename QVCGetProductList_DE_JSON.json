@@ -112,7 +112,7 @@
                 "RetailPrice": "1714.00",
                 "CreditTerms": "0",
                 "minBasePrice": "null",
-                "MarketingText": "null"
+                "MarketingText": "Neu"
             },
             {
                 "NodeType": "SUMMARY",
@@ -147,7 +147,7 @@
                 "RetailPrice": "0.00",
                 "CreditTerms": "0",
                 "minBasePrice": "null",
-                "MarketingText": "null"
+                "MarketingText": "Sie sparen 20%"
             },
             {
                 "NodeType": "SUMMARY",
