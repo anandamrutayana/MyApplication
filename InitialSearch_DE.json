@@ -903,54 +903,67 @@
                         {
                             "sqs": "/QVC/Search.ff?query=shirt&filterCategorie_Desc=Strickjacken&channel=de&productsPerPage=5&followSearch=9871&ref=&keyword=&catalogId=&userName=&langId=&resultsWithTopSellers=&signIn=&storeId=&greetingMsg=&cm_mmc=&format=XML",
                             "dt": "Strickjacken"
+                            "count": "5"
                         },
                         {
                             "sqs": "/QVC/Search.ff?query=shirt&filterCategorie_Desc=Kleider+%26+R%C3%B6cke&channel=de&productsPerPage=5&followSearch=9871&ref=&keyword=&catalogId=&userName=&langId=&resultsWithTopSellers=&signIn=&storeId=&greetingMsg=&cm_mmc=&format=XML",
                             "dt": "Kleider & Röcke"
+                            "count": "5"
                         },
                         {
                             "sqs": "/QVC/Search.ff?query=shirt&filterCategorie_Desc=Pullover&channel=de&productsPerPage=5&followSearch=9871&ref=&keyword=&catalogId=&userName=&langId=&resultsWithTopSellers=&signIn=&storeId=&greetingMsg=&cm_mmc=&format=XML",
                             "dt": "Pullover"
+                            "count": "5"
                         },
                         {
                             "sqs": "/QVC/Search.ff?query=shirt&filterCategorie_Desc=Bastelmaterialien+%26+-helfer&channel=de&productsPerPage=5&followSearch=9871&ref=&keyword=&catalogId=&userName=&langId=&resultsWithTopSellers=&signIn=&storeId=&greetingMsg=&cm_mmc=&format=XML",
                             "dt": "Bastelmaterialien & -helfer"
+                            "count": "5"
                         },
                         {
                             "sqs": "/QVC/Search.ff?query=shirt&filterCategorie_Desc=Basteltechniken&channel=de&productsPerPage=5&followSearch=9871&ref=&keyword=&catalogId=&userName=&langId=&resultsWithTopSellers=&signIn=&storeId=&greetingMsg=&cm_mmc=&format=XML",
                             "dt": "Basteltechniken"
+                            "count": "5"
                         },
                         {
                             "sqs": "/QVC/Search.ff?query=shirt&filterCategorie_Desc=Blusen+%26+Hemden&channel=de&productsPerPage=5&followSearch=9871&ref=&keyword=&catalogId=&userName=&langId=&resultsWithTopSellers=&signIn=&storeId=&greetingMsg=&cm_mmc=&format=XML",
                             "dt": "Blusen & Hemden"
+                            "count": "5"
                         },
                         {
                             "sqs": "/QVC/Search.ff?query=shirt&filterCategorie_Desc=Ketten+%26+Colliers&channel=de&productsPerPage=5&followSearch=9871&ref=&keyword=&catalogId=&userName=&langId=&resultsWithTopSellers=&signIn=&storeId=&greetingMsg=&cm_mmc=&format=XML",
                             "dt": "Ketten & Colliers"
+                            "count": "5"
                         },
                         {
                             "sqs": "/QVC/Search.ff?query=shirt&filterCategorie_Desc=Accessoires&channel=de&productsPerPage=5&followSearch=9871&ref=&keyword=&catalogId=&userName=&langId=&resultsWithTopSellers=&signIn=&storeId=&greetingMsg=&cm_mmc=&format=XML",
                             "dt": "Accessoires"
+                            "count": "5"
                         },
                         {
                             "sqs": "/QVC/Search.ff?query=shirt&filterCategorie_Desc=Armschmuck&channel=de&productsPerPage=5&followSearch=9871&ref=&keyword=&catalogId=&userName=&langId=&resultsWithTopSellers=&signIn=&storeId=&greetingMsg=&cm_mmc=&format=XML",
                             "dt": "Armschmuck"
+                            "count": "5"
                         },
                         {
                             "sqs": "/QVC/Search.ff?query=shirt&filterCategorie_Desc=Hosen&channel=de&productsPerPage=5&followSearch=9871&ref=&keyword=&catalogId=&userName=&langId=&resultsWithTopSellers=&signIn=&storeId=&greetingMsg=&cm_mmc=&format=XML",
                             "dt": "Hosen"
+                            "count": "5"
                         },
                         {
                             "sqs": "/QVC/Search.ff?query=shirt&filterCategorie_Desc=Jacken+%26+M%C3%A4ntel&channel=de&productsPerPage=5&followSearch=9871&ref=&keyword=&catalogId=&userName=&langId=&resultsWithTopSellers=&signIn=&storeId=&greetingMsg=&cm_mmc=&format=XML",
                             "dt": "Jacken & Mäntel"
+                            "count": "5"
                         },
                         {
                             "sqs": "/QVC/Search.ff?query=shirt&filterCategorie_Desc=Ringe&channel=de&productsPerPage=5&followSearch=9871&ref=&keyword=&catalogId=&userName=&langId=&resultsWithTopSellers=&signIn=&storeId=&greetingMsg=&cm_mmc=&format=XML",
                             "dt": "Ringe"
+                            "count": "5"
                         },
                         {
                             "sqs": "/QVC/Search.ff?query=shirt&filterCategorie_Desc=Sammeln&channel=de&productsPerPage=5&followSearch=9871&ref=&keyword=&catalogId=&userName=&langId=&resultsWithTopSellers=&signIn=&storeId=&greetingMsg=&cm_mmc=&format=XML",
                             "dt": "Sammeln"
+                            "count": "5"
                         }
                     ]
                 },
