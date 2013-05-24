@@ -46,9 +46,7 @@
                         "MinPrice": "0",
                         "MaxPrice": "0"
                     },
-                    "MarketingText": {
-                        "xsi_ns-sep_nil": "true"
-                    }
+                    "MarketingText": "null"
                 },
                 {
                     "NodeType": "SUMMARY",
@@ -126,9 +124,7 @@
                         "MinPrice": "0",
                         "MaxPrice": "0"
                     },
-                    "MarketingText": {
-                        "xsi_ns-sep_nil": "true"
-                    }
+                     "MarketingText": "null"
                 },
                 {
                     "NodeType": "SUMMARY",
@@ -166,9 +162,7 @@
                         "MinPrice": "0",
                         "MaxPrice": "0"
                     },
-                    "MarketingText": {
-                        "xsi_ns-sep_nil": "true"
-                    }
+                     "MarketingText": "null"
                 },
                 {
                     "NodeType": "SUMMARY",
@@ -206,9 +200,7 @@
                         "MinPrice": "0",
                         "MaxPrice": "0"
                     },
-                    "MarketingText": {
-                        "xsi_ns-sep_nil": "true"
-                    }
+                     "MarketingText": "null"
                 },
                 {
                     "NodeType": "SUMMARY",
@@ -246,9 +238,7 @@
                         "MinPrice": "0",
                         "MaxPrice": "0"
                     },
-                    "MarketingText": {
-                        "xsi_ns-sep_nil": "true"
-                    }
+                     "MarketingText": "null"
                 },
                 {
                     "NodeType": "SUMMARY",
@@ -286,9 +276,7 @@
                         "MinPrice": "0",
                         "MaxPrice": "0"
                     },
-                    "MarketingText": {
-                        "xsi_ns-sep_nil": "true"
-                    }
+                     "MarketingText": "null"
                 },
                 {
                     "NodeType": "SUMMARY",
@@ -326,9 +314,7 @@
                         "MinPrice": "0",
                         "MaxPrice": "0"
                     },
-                    "MarketingText": {
-                        "xsi_ns-sep_nil": "true"
-                    }
+                     "MarketingText": "null"
                 },
                 {
                     "NodeType": "SUMMARY",
@@ -366,9 +352,7 @@
                         "MinPrice": "0",
                         "MaxPrice": "0"
                     },
-                    "MarketingText": {
-                        "xsi_ns-sep_nil": "true"
-                    }
+                    "MarketingText": "null"
                 },
                 {
                     "NodeType": "SUMMARY",
@@ -406,9 +390,7 @@
                         "MinPrice": "0",
                         "MaxPrice": "0"
                     },
-                    "MarketingText": {
-                        "xsi_ns-sep_nil": "true"
-                    }
+                     "MarketingText": "null"
                 },
                 {
                     "NodeType": "SUMMARY",
@@ -446,9 +428,7 @@
                         "MinPrice": "0",
                         "MaxPrice": "0"
                     },
-                    "MarketingText": {
-                        "xsi_ns-sep_nil": "true"
-                    }
+                     "MarketingText": "null"
                 },
                 {
                     "NodeType": "SUMMARY",
@@ -486,9 +466,7 @@
                         "MinPrice": "0",
                         "MaxPrice": "0"
                     },
-                    "MarketingText": {
-                        "xsi_ns-sep_nil": "true"
-                    }
+                     "MarketingText": "null"
                 },
                 {
                     "NodeType": "SUMMARY",
@@ -526,9 +504,7 @@
                         "MinPrice": "0",
                         "MaxPrice": "0"
                     },
-                    "MarketingText": {
-                        "xsi_ns-sep_nil": "true"
-                    }
+                     "MarketingText": "null"
                 },
                 {
                     "NodeType": "SUMMARY",
@@ -566,9 +542,7 @@
                         "MinPrice": "0",
                         "MaxPrice": "0"
                     },
-                    "MarketingText": {
-                        "xsi_ns-sep_nil": "true"
-                    }
+                     "MarketingText": "null"
                 },
                 {
                     "NodeType": "SUMMARY",
@@ -606,9 +580,7 @@
                         "MinPrice": "0",
                         "MaxPrice": "0"
                     },
-                    "MarketingText": {
-                        "xsi_ns-sep_nil": "true"
-                    }
+                     "MarketingText": "null"
                 },
                 {
                     "NodeType": "SUMMARY",
@@ -646,9 +618,7 @@
                         "MinPrice": "0",
                         "MaxPrice": "0"
                     },
-                    "MarketingText": {
-                        "xsi_ns-sep_nil": "true"
-                    }
+                     "MarketingText": "null"
                 },
                 {
                     "NodeType": "SUMMARY",
@@ -686,9 +656,7 @@
                         "MinPrice": "0",
                         "MaxPrice": "0"
                     },
-                    "MarketingText": {
-                        "xsi_ns-sep_nil": "true"
-                    }
+                     "MarketingText": "null"
                 },
                 {
                     "NodeType": "SUMMARY",
@@ -726,9 +694,7 @@
                         "MinPrice": "0",
                         "MaxPrice": "0"
                     },
-                    "MarketingText": {
-                        "xsi_ns-sep_nil": "true"
-                    }
+                     "MarketingText": "null"
                 },
                 {
                     "NodeType": "SUMMARY",
@@ -766,9 +732,7 @@
                         "MinPrice": "0",
                         "MaxPrice": "0"
                     },
-                    "MarketingText": {
-                        "xsi_ns-sep_nil": "true"
-                    }
+                     "MarketingText": "null"
                 },
                 {
                     "NodeType": "SUMMARY",
@@ -806,9 +770,7 @@
                         "MinPrice": "0",
                         "MaxPrice": "0"
                     },
-                    "MarketingText": {
-                        "xsi_ns-sep_nil": "true"
-                    }
+                     "MarketingText": "null"
                 },
                 {
                     "NodeType": "SUMMARY",
@@ -846,9 +808,7 @@
                         "MinPrice": "0",
                         "MaxPrice": "0"
                     },
-                    "MarketingText": {
-                        "xsi_ns-sep_nil": "true"
-                    }
+                     "MarketingText": "null"
                 },
                 {
                     "NodeType": "SUMMARY",
@@ -886,9 +846,7 @@
                         "MinPrice": "0",
                         "MaxPrice": "0"
                     },
-                    "MarketingText": {
-                        "xsi_ns-sep_nil": "true"
-                    }
+                     "MarketingText": "null"
                 },
                 {
                     "NodeType": "SUMMARY",
@@ -926,9 +884,7 @@
                         "MinPrice": "0",
                         "MaxPrice": "0"
                     },
-                    "MarketingText": {
-                        "xsi_ns-sep_nil": "true"
-                    }
+                     "MarketingText": "null"
                 },
                 {
                     "NodeType": "SUMMARY",
@@ -966,9 +922,7 @@
                         "MinPrice": "0",
                         "MaxPrice": "0"
                     },
-                    "MarketingText": {
-                        "xsi_ns-sep_nil": "true"
-                    }
+                    "MarketingText": "null"
                 }
             ],
             "responsecodetext": "Product listing retrieved.",
@@ -977,7 +931,7 @@
         "NarrowBy": {
             "group": [
                 {
-                    "dt": "Sortiment",
+                    "dt": "Range",
                     "att": [
                         {
                             "sqs": "/QVC/Search.ff?query=shirt&filterMeta_Desc=Mode&channel=de&productsPerPage=5&followSearch=9855&ref=&keyword=&catalogId=&userName=&langId=&resultsWithTopSellers=&signIn=&storeId=&greetingMsg=&cm_mmc=&format=XML",
@@ -1002,7 +956,7 @@
                     ]
                 },
                 {
-                    "dt": "Kategorie",
+                    "dt": "Category",
                     "att": [
                         {
                             "sqs": "/QVC/Search.ff?query=shirt&filterCategorie_Desc=Shirts+%26+Tops&channel=de&productsPerPage=5&followSearch=9855&ref=&keyword=&catalogId=&userName=&langId=&resultsWithTopSellers=&signIn=&storeId=&greetingMsg=&cm_mmc=&format=XML",
@@ -1097,7 +1051,7 @@
                     ]
                 },
                 {
-                    "dt": "Marke",
+                    "dt": "Brand",
                     "att": [
                         {
                             "sqs": "/QVC/Search.ff?query=shirt&filterBrand=IN-PRINT&channel=de&productsPerPage=5&followSearch=9855&ref=&keyword=&catalogId=&userName=&langId=&resultsWithTopSellers=&signIn=&storeId=&greetingMsg=&cm_mmc=&format=XML",
@@ -1327,7 +1281,7 @@
                     ]
                 },
                 {
-                    "dt": "Preis",
+                    "dt": "Price",
                     "att": [
                         {
                             "sqs": "/QVC/Search.ff?query=shirt&filterminPrice=10.01+-+25.00&channel=de&productsPerPage=5&followSearch=9855&ref=&keyword=&catalogId=&userName=&langId=&resultsWithTopSellers=&signIn=&storeId=&greetingMsg=&cm_mmc=&format=XML",
@@ -1362,7 +1316,7 @@
                     ]
                 },
                 {
-                    "dt": "Farbe",
+                    "dt": "Color",
                     "att": [
                         {
                             "sqs": "/QVC/Search.ff?query=shirt&filterColour=Schwarz&channel=de&productsPerPage=5&followSearch=9855&ref=&keyword=&catalogId=&userName=&langId=&resultsWithTopSellers=&signIn=&storeId=&greetingMsg=&cm_mmc=&format=XML",
