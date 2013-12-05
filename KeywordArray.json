@@ -1,0 +1,374 @@
+[
+  {
+    "key_id": "2945",
+    "keyword": "Agile Development"
+  },
+  {
+    "key_id": "2946",
+    "keyword": "All Channel Experience"
+  },
+  {
+    "key_id": "2947",
+    "keyword": "Analytics"
+  },
+  {
+    "key_id": "2948",
+    "keyword": "Application Lifecycle Services"
+  },
+  {
+    "key_id": "2949",
+    "keyword": "Big Data"
+  },
+  {
+    "key_id": "2950",
+    "keyword": "Business Analytics"
+  },
+  {
+    "key_id": "2951",
+    "keyword": "Business Intelligence"
+  },
+  {
+    "key_id": "2952",
+    "keyword": "Business Process as a Service"
+  },
+  {
+    "key_id": "2953",
+    "keyword": "Business Process Efficiency"
+  },
+  {
+    "key_id": "2954",
+    "keyword": "Business Process Outsourcing"
+  },
+  {
+    "key_id": "2955",
+    "keyword": "Business Transformation"
+  },
+  {
+    "key_id": "3057",
+    "keyword": "Capgemini Consulting"
+  },
+  {
+    "key_id": "3028",
+    "keyword": "Capgemini Group"
+  },
+  {
+    "key_id": "2956",
+    "keyword": "Capital Markets"
+  },
+  {
+    "key_id": "2957",
+    "keyword": "Cards and Payments"
+  },
+  {
+    "key_id": "2958",
+    "keyword": "Change Management"
+  },
+  {
+    "key_id": "2959",
+    "keyword": "Claims Transformation"
+  },
+  {
+    "key_id": "2960",
+    "keyword": "Cloud"
+  },
+  {
+    "key_id": "3029",
+    "keyword": "Consumer Products Retail Distribution and Transportation"
+  },
+  {
+    "key_id": "2961",
+    "keyword": "Core Banking"
+  },
+  {
+    "key_id": "2962",
+    "keyword": "Core Police"
+  },
+  {
+    "key_id": "2963",
+    "keyword": "Customer Relationship Management"
+  },
+  {
+    "key_id": "3059",
+    "keyword": "CPM Braxis"
+  },
+  {
+    "key_id": "2964",
+    "keyword": "Customer Loyalty"
+  },
+  {
+    "key_id": "2965",
+    "keyword": "Customer Operations"
+  },
+  {
+    "key_id": "2966",
+    "keyword": "Data Management"
+  },
+  {
+    "key_id": "2967",
+    "keyword": "Decision Process"
+  },
+  {
+    "key_id": "2968",
+    "keyword": "Digital Transformation"
+  },
+  {
+    "key_id": "3030",
+    "keyword": "EMC - VMWare"
+  },
+  {
+    "key_id": "3031",
+    "keyword": "Energy Utilities and Chemicals"
+  },
+  {
+    "key_id": "2969",
+    "keyword": "Enterprise Content Management"
+  },
+  {
+    "key_id": "3032",
+    "keyword": "Financial Services"
+  },
+  {
+    "key_id": "2970",
+    "keyword": "Fraud Protection"
+  },
+  {
+    "key_id": "2971",
+    "keyword": "Governance Risk and Compliance"
+  },
+  {
+    "key_id": "2972",
+    "keyword": "Green IT"
+  },
+  {
+    "key_id": "3033",
+    "keyword": "HP"
+  },
+  {
+    "key_id": "3034",
+    "keyword": "IBM"
+  },
+  {
+    "key_id": "3200",
+    "keyword": "IBX"
+  },
+  {
+    "key_id": "2973",
+    "keyword": "Information Strategy"
+  },
+  {
+    "key_id": "2974",
+    "keyword": "Infrastructure as a Service"
+  },
+  {
+    "key_id": "2975",
+    "keyword": "IT Deployment"
+  },
+  {
+    "key_id": "2976",
+    "keyword": "IT Innovation"
+  },
+  {
+    "key_id": "2977",
+    "keyword": "IT Maintenance and Support"
+  },
+  {
+    "key_id": "2978",
+    "keyword": "IT Platforms"
+  },
+  {
+    "key_id": "2979",
+    "keyword": "IT Rationalization"
+  },
+  {
+    "key_id": "2980",
+    "keyword": "Lean Enterprise"
+  },
+  {
+    "key_id": "2981",
+    "keyword": "Life and Pensions"
+  },
+  {
+    "key_id": "2982",
+    "keyword": "Management of an IT ecosystem"
+  },
+  {
+    "key_id": "3035",
+    "keyword": "Manufacturing Automotive and Life Sciences"
+  },
+  {
+    "key_id": "3036",
+    "keyword": "Microsoft"
+  },
+  {
+    "key_id": "3143",
+    "keyword": "Managed Mobility"
+  },
+  {
+    "key_id": "3145",
+    "keyword": "Mobile App Factory"
+  },
+  {
+    "key_id": "3142",
+    "keyword": "Mobile Applications"
+  },
+  {
+    "key_id": "3144",
+    "keyword": "Mobile Platforms"
+  },
+  {
+    "key_id": "3141",
+    "keyword": "Mobile Strategy"
+  },
+  {
+    "key_id": "2983",
+    "keyword": "Mobility"
+  },
+  {
+    "key_id": "2984",
+    "keyword": "Multi Channel Strategy"
+  },
+  {
+    "key_id": "2985",
+    "keyword": "Network Operations"
+  },
+  {
+    "key_id": "3122",
+    "keyword": "New AM Platform"
+  },
+  {
+    "key_id": "3037",
+    "keyword": "Oracle"
+  },
+  {
+    "key_id": "2986",
+    "keyword": "Outsourcing"
+  },
+  {
+    "key_id": "2987",
+    "keyword": "Payments"
+  },
+  {
+    "key_id": "2988",
+    "keyword": "Platform as a Service"
+  },
+  {
+    "key_id": "2989",
+    "keyword": "Policy Processing"
+  },
+  {
+    "key_id": "2990",
+    "keyword": "Portfolio Management"
+  },
+  {
+    "key_id": "2991",
+    "keyword": "Process Efficiency"
+  },
+  {
+    "key_id": "2992",
+    "keyword": "Procurement"
+  },
+  {
+    "key_id": "2993",
+    "keyword": "Property and Casualty"
+  },
+  {
+    "key_id": "3038",
+    "keyword": "Public Sector"
+  },
+  {
+    "key_id": "2994",
+    "keyword": "Sales Effectiveness"
+  },
+  {
+    "key_id": "3039",
+    "keyword": "Salesforce.com"
+  },
+  {
+    "key_id": "3040",
+    "keyword": "SAP"
+  },
+  {
+    "key_id": "2995",
+    "keyword": "Security"
+  },
+  {
+    "key_id": "2996",
+    "keyword": "Service Aggregation"
+  },
+  {
+    "key_id": "2997",
+    "keyword": "Service Integration"
+  },
+  {
+    "key_id": "2998",
+    "keyword": "Service Management"
+  },
+  {
+    "key_id": "3091",
+    "keyword": "Service Orchestration"
+  },
+  {
+    "key_id": "2999",
+    "keyword": "Shared Services"
+  },
+  {
+    "key_id": "3194",
+    "keyword": "SkySight"
+  },
+  {
+    "key_id": "3000",
+    "keyword": "Smart Energy Services"
+  },
+  {
+    "key_id": "3001",
+    "keyword": "Social Enterprise"
+  },
+  {
+    "key_id": "3002",
+    "keyword": "Social Listening"
+  },
+  {
+    "key_id": "3003",
+    "keyword": "Software as a Service"
+  },
+  {
+    "key_id": "3004",
+    "keyword": "Strategic Vision and Intent"
+  },
+  {
+    "key_id": "3005",
+    "keyword": "Supplier Strategy"
+  },
+  {
+    "key_id": "3006",
+    "keyword": "Supply Chain Management"
+  },
+  {
+    "key_id": "3007",
+    "keyword": "Support Function Optimization"
+  },
+  {
+    "key_id": "3008",
+    "keyword": "Tax and Welfare"
+  },
+  {
+    "key_id": "3041",
+    "keyword": "Telecom Media and Entertainment"
+  },
+  {
+    "key_id": "3010",
+    "keyword": "Telecom Transformation"
+  },
+  {
+    "key_id": "3011",
+    "keyword": "Testing"
+  },
+  {
+    "key_id": "3012",
+    "keyword": "Transaction Services"
+  },
+  {
+    "key_id": "3013",
+    "keyword": "Yield and Anti Fraud Protection"
+  }
+]
