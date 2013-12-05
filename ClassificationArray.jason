@@ -1,0 +1,65 @@
+[
+  {
+    "class_id": "33",
+    "class_name": "Value Proposition",
+    "class_img": "<img typeof=\"foaf:Image\" src=\"https://ishowcase.capgeminicomplete.com/msa-prod/sites/default/files/cimg/OfferingPage0.jpg\" width=\"200\" height=\"150\" alt=\"\" />",
+    "not_external": "0",
+    "order": "0"
+  },
+  {
+    "class_id": "26",
+    "class_name": "Collateral",
+    "class_img": "<img typeof=\"foaf:Image\" src=\"https://ishowcase.capgeminicomplete.com/msa-prod/sites/default/files/cimg/OfferingPage1.jpg\" width=\"200\" height=\"150\" alt=\"\" />",
+    "not_external": "0",
+    "order": "1"
+  },
+  {
+    "class_id": "27",
+    "class_name": "Demos",
+    "class_img": "<img typeof=\"foaf:Image\" src=\"https://ishowcase.capgeminicomplete.com/msa-prod/sites/default/files/cimg/OfferingPage2.jpg\" width=\"200\" height=\"150\" alt=\"\" />",
+    "not_external": "0",
+    "order": "2"
+  },
+  {
+    "class_id": "31",
+    "class_name": "References",
+    "class_img": "<img typeof=\"foaf:Image\" src=\"https://ishowcase.capgeminicomplete.com/msa-prod/sites/default/files/cimg/OfferingPage3.jpg\" width=\"200\" height=\"150\" alt=\"\" />",
+    "not_external": "0",
+    "order": "3"
+  },
+  {
+    "class_id": "28",
+    "class_name": "Differentiating Factors",
+    "class_img": "<img typeof=\"foaf:Image\" src=\"https://ishowcase.capgeminicomplete.com/msa-prod/sites/default/files/cimg/OfferingPage4.jpg\" width=\"200\" height=\"150\" alt=\"\" />",
+    "not_external": "0",
+    "order": "4"
+  },
+  {
+    "class_id": "25",
+    "class_name": "Capabilities and Awards",
+    "class_img": "<img typeof=\"foaf:Image\" src=\"https://ishowcase.capgeminicomplete.com/msa-prod/sites/default/files/cimg/OfferingPage5.jpg\" width=\"200\" height=\"150\" alt=\"\" />",
+    "not_external": "0",
+    "order": "5"
+  },
+  {
+    "class_id": "30",
+    "class_name": "Partners",
+    "class_img": "<img typeof=\"foaf:Image\" src=\"https://ishowcase.capgeminicomplete.com/msa-prod/sites/default/files/cimg/partners.jpg\" width=\"240\" height=\"180\" alt=\"\" />",
+    "not_external": "0",
+    "order": "6"
+  },
+  {
+    "class_id": "29",
+    "class_name": "Experts",
+    "class_img": "<img typeof=\"foaf:Image\" src=\"https://ishowcase.capgeminicomplete.com/msa-prod/sites/default/files/cimg/OfferingPage7.jpg\" width=\"200\" height=\"150\" alt=\"\" />",
+    "not_external": "1",
+    "order": "7"
+  },
+  {
+    "class_id": "32",
+    "class_name": "Training",
+    "class_img": "<img typeof=\"foaf:Image\" src=\"https://ishowcase.capgeminicomplete.com/msa-prod/sites/default/files/cimg/Training_0.jpg\" width=\"200\" height=\"150\" alt=\"\" />",
+    "not_external": "1",
+    "order": "8"
+  }
+]
