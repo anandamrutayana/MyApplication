@@ -1,0 +1,38 @@
+[
+  {
+    "_id": "54c0d8b1bdfb138cd4c0cf57",
+    "broch_id": 100,
+    "timestamp": "2015-01-22T11:02:09.0Z",
+    "name": "Medline-equipments",
+    "img": "/resources/images/100.png",
+    "desc": "Equipments which make a difference",
+    "order": 1
+  },
+  {
+    "_id": "54fd30876287e94c7d9c6050",
+    "broch_id": 101,
+    "timestamp": "2015-03-09T05:32:55.0Z",
+    "name": "That awesome second brochure!",
+    "img": "/resources/101.jpg",
+    "desc": "The cure for Parkinsons Disease",
+    "order": 2
+  },
+  {
+    "_id": "559cbfc079be790160430250",
+    "broch_id": 0,
+    "timestamp": "2015-07-08T06:14:23.920Z",
+    "name": "Pulse",
+    "img": "",
+    "desc": "",
+    "order": 3
+  },
+  {
+    "_id": "559cc1e879be790160430253",
+    "broch_id": 0,
+    "timestamp": "2015-07-08T06:23:35.696Z",
+    "name": "Pulse 2",
+    "img": "",
+    "desc": "",
+    "order": 4
+  }
+]
