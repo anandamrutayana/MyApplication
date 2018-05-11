@@ -1,10 +1,10 @@
 {
-  "customerName": "lokesh",
-  "ageRangeCode": 2,
+  "customerName": "Andrew",
+  "ageRangeCode": 3,
   "gender": "male",
   "url": [
-      "https://highstreet-dcxfoundry.ace.nl.capgemini.com/highstreetstorefront/hybris/highstreet/hybris/bin/custom/highstreetstorefront/resources/signagebanners/male2a.jpg",
-      "https://highstreet-dcxfoundry.ace.nl.capgemini.com/highstreetstorefront/hybris/highstreet/hybris/bin/custom/highstreetstorefront/resources/signagebanners/male2b.jpg",
-      "https://highstreet-dcxfoundry.ace.nl.capgemini.com/highstreetstorefront/hybris/highstreet/hybris/bin/custom/highstreetstorefront/resources/signagebanners/male2c.jpg"
+      "https://raw.githubusercontent.com/anandamrutayana/MyApplication/master/male3a.jpg",
+      "https://raw.githubusercontent.com/anandamrutayana/MyApplication/master/male3b.jpg",
+      "https://raw.githubusercontent.com/anandamrutayana/MyApplication/master/male3c.jpg"
   ]
 }
